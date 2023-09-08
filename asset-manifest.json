@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.23899016.css",
+    "main.css": "/static/css/main.28394163.css",
     "main.js": "/static/js/main.d1dac6ef.js",
     "static/media/droid-2.jpg": "/static/media/droid-2.b16befdc6b76d0af9a04.jpg",
     "static/media/drone-1.jpg": "/static/media/drone-1.8e23025047ae059583e2.jpg",
@@ -52,11 +52,11 @@
     "static/media/ernestm.jpg": "/static/media/ernestm.f297afc2b69956781256.jpg",
     "static/media/august.jpg": "/static/media/august.c70c2e366d828ebdc515.jpg",
     "index.html": "/index.html",
-    "main.23899016.css.map": "/static/css/main.23899016.css.map",
+    "main.28394163.css.map": "/static/css/main.28394163.css.map",
     "main.d1dac6ef.js.map": "/static/js/main.d1dac6ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.23899016.css",
+    "static/css/main.28394163.css",
     "static/js/main.d1dac6ef.js"
   ]
 }
