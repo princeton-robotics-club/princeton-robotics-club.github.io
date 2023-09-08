@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.28394163.css",
+    "main.css": "/static/css/main.37c61da1.css",
     "main.js": "/static/js/main.d1dac6ef.js",
     "static/media/droid-2.jpg": "/static/media/droid-2.b16befdc6b76d0af9a04.jpg",
     "static/media/drone-1.jpg": "/static/media/drone-1.8e23025047ae059583e2.jpg",
@@ -17,14 +17,14 @@
     "static/media/e_quad.jpg": "/static/media/e_quad.d367c64059747ae37ce2.jpg",
     "static/media/_bg_support.png": "/static/media/_bg_support.be42e89413364d98e5ee.png",
     "static/media/droid-4.jpg": "/static/media/droid-4.091059c40612338e5b99.jpg",
+    "static/media/robocup-logo.svg": "/static/media/robocup-logo.41761330ee3bb55b9329.svg",
     "static/media/pacbot-2.jpg": "/static/media/pacbot-2.6e168a85f30802cd9d85.jpg",
     "static/media/drone-3.jpg": "/static/media/drone-3.3560110dd3d901b1b87c.jpg",
+    "static/media/golf-logo.svg": "/static/media/golf-logo.715e7e8217be9a10eb16.svg",
+    "static/media/exoskeleton-logo.svg": "/static/media/exoskeleton-logo.d5dd33d239058308acd0.svg",
+    "static/media/rover-logo.svg": "/static/media/rover-logo.84dbb30cc5318604a1a3.svg",
     "static/media/Century-Gothic.ttf": "/static/media/Century-Gothic.b194aa2bd524e2c973f7.ttf",
     "static/media/lyon.png": "/static/media/lyon.2a285b7e316b09d9eead.png",
-    "static/media/golf-logo.svg": "/static/media/golf-logo.b17c7c250ea7d2543e62.svg",
-    "static/media/rover-logo.svg": "/static/media/rover-logo.3837e3bf21c13a9bdec0.svg",
-    "static/media/robocup-logo.svg": "/static/media/robocup-logo.00fb262c48cf355a137a.svg",
-    "static/media/exoskeleton-logo.svg": "/static/media/exoskeleton-logo.70c57e8abc63c9841835.svg",
     "static/media/wh9128.jpg": "/static/media/wh9128.2302281cf0b222aaf9de.jpg",
     "static/media/Just-Sans-Regular.otf": "/static/media/Just-Sans-Regular.4ea0fcccc6094d2b112e.otf",
     "static/media/pacbot-logo.svg": "/static/media/pacbot-logo.273777cfd46146e342be.svg",
@@ -52,11 +52,11 @@
     "static/media/ernestm.jpg": "/static/media/ernestm.f297afc2b69956781256.jpg",
     "static/media/august.jpg": "/static/media/august.c70c2e366d828ebdc515.jpg",
     "index.html": "/index.html",
-    "main.28394163.css.map": "/static/css/main.28394163.css.map",
+    "main.37c61da1.css.map": "/static/css/main.37c61da1.css.map",
     "main.d1dac6ef.js.map": "/static/js/main.d1dac6ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.28394163.css",
+    "static/css/main.37c61da1.css",
     "static/js/main.d1dac6ef.js"
   ]
 }
