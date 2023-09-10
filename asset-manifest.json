@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.17aab798.css",
-    "main.js": "/static/js/main.7223c460.js",
+    "main.css": "/static/css/main.541f2cb9.css",
+    "main.js": "/static/js/main.00467336.js",
     "static/media/droid-2.jpg": "/static/media/droid-2.b16befdc6b76d0af9a04.jpg",
     "static/media/drone-1.jpg": "/static/media/drone-1.8e23025047ae059583e2.jpg",
-    "static/media/PURC Logo Blue.svg": "/static/media/PURC Logo Blue.79dfc3f66a2f4dcaa331.svg",
+    "static/media/PURC Logo Blue.svg": "/static/media/PURC Logo Blue.edf9baf595cfcf805272.svg",
     "static/media/droid-3.jpg": "/static/media/droid-3.5d56a4b51013e8b3c861.jpg",
     "static/media/logo_light.png": "/static/media/logo_light.f086cd38e47fae9bd8bb.png",
     "static/media/drone-2.jpg": "/static/media/drone-2.cda8763e3329034a731b.jpg",
@@ -16,21 +16,21 @@
     "static/media/jt1065.jpg": "/static/media/jt1065.5e1f3e5d5bef9d916a8f.jpg",
     "static/media/e_quad.jpg": "/static/media/e_quad.d367c64059747ae37ce2.jpg",
     "static/media/_bg_support.png": "/static/media/_bg_support.be42e89413364d98e5ee.png",
-    "static/media/robocup-logo.svg": "/static/media/robocup-logo.51f1d6f055df86ddbe8f.svg",
     "static/media/droid-4.jpg": "/static/media/droid-4.091059c40612338e5b99.jpg",
+    "static/media/robocup-logo.svg": "/static/media/robocup-logo.41761330ee3bb55b9329.svg",
     "static/media/pacbot-2.jpg": "/static/media/pacbot-2.6e168a85f30802cd9d85.jpg",
     "static/media/drone-3.jpg": "/static/media/drone-3.3560110dd3d901b1b87c.jpg",
-    "static/media/golf-logo.svg": "/static/media/golf-logo.7822a741dcf97f27313a.svg",
-    "static/media/exoskeleton-logo.svg": "/static/media/exoskeleton-logo.9f863eef58e6592d3e41.svg",
-    "static/media/rover-logo.svg": "/static/media/rover-logo.7b2228c9fafad0716238.svg",
+    "static/media/golf-logo.svg": "/static/media/golf-logo.715e7e8217be9a10eb16.svg",
+    "static/media/exoskeleton-logo.svg": "/static/media/exoskeleton-logo.d5dd33d239058308acd0.svg",
+    "static/media/rover-logo.svg": "/static/media/rover-logo.84dbb30cc5318604a1a3.svg",
     "static/media/Century-Gothic.ttf": "/static/media/Century-Gothic.b194aa2bd524e2c973f7.ttf",
     "static/media/lyon.png": "/static/media/lyon.2a285b7e316b09d9eead.png",
     "static/media/wh9128.jpg": "/static/media/wh9128.2302281cf0b222aaf9de.jpg",
     "static/media/Just-Sans-Regular.otf": "/static/media/Just-Sans-Regular.4ea0fcccc6094d2b112e.otf",
-    "static/media/pacbot-logo.svg": "/static/media/pacbot-logo.182fdcfcf5b66f0a6480.svg",
-    "static/media/drone-logo.svg": "/static/media/drone-logo.4feb330751337bac655c.svg",
-    "static/media/droid-logo.svg": "/static/media/droid-logo.6048f3ad7eb8d0dadd2d.svg",
+    "static/media/pacbot-logo.svg": "/static/media/pacbot-logo.273777cfd46146e342be.svg",
+    "static/media/drone-logo.svg": "/static/media/drone-logo.9fb5c1fdce3c4c0793f7.svg",
     "static/media/mh6419.jpg": "/static/media/mh6419.9f6e206688828022968c.jpg",
+    "static/media/droid-logo.svg": "/static/media/droid-logo.bbf4a608bcb99537b9c6.svg",
     "static/media/dc4266.jpg": "/static/media/dc4266.fa3f571c9d694dcb4d89.jpg",
     "static/media/pacbot-3.jpg": "/static/media/pacbot-3.e06f4dc2f3659d1eacfe.jpg",
     "static/media/ih2422.jpg": "/static/media/ih2422.83f431868b4704963c91.jpg",
@@ -53,11 +53,11 @@
     "static/media/ernestm.jpg": "/static/media/ernestm.f297afc2b69956781256.jpg",
     "static/media/august.jpg": "/static/media/august.c70c2e366d828ebdc515.jpg",
     "index.html": "/index.html",
-    "main.17aab798.css.map": "/static/css/main.17aab798.css.map",
-    "main.7223c460.js.map": "/static/js/main.7223c460.js.map"
+    "main.541f2cb9.css.map": "/static/css/main.541f2cb9.css.map",
+    "main.00467336.js.map": "/static/js/main.00467336.js.map"
   },
   "entrypoints": [
-    "static/css/main.17aab798.css",
-    "static/js/main.7223c460.js"
+    "static/css/main.541f2cb9.css",
+    "static/js/main.00467336.js"
   ]
 }
