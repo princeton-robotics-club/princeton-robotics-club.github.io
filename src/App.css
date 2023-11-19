@@ -1,0 +1,27 @@
+body {
+  margin:0;
+  padding:0;
+  min-height: 100%;
+  background-color: #ddd;
+  display: flex;
+  flex-direction: column;
+  transition: 0.5s all ease;
+}
+
+body.dark {
+  background-color: #222;
+}
+
+.content {
+  flex-grow: 1;
+}
+
+@font-face {
+  font-family: 'Century Gothic';
+  src: local('Century Gothic'), url(./fonts/Century-Gothic.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Just Sans';
+  src: local('Just Sans'), url(./fonts/Just-Sans-Regular.otf);
+}

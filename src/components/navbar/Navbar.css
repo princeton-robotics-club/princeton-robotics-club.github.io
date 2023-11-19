@@ -1,0 +1,339 @@
+.navbar {
+  height: 100px;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+
+.navbar-dark {
+  background: linear-gradient(to right, #555 0%, #000 100%);
+}
+
+.navbar-light {
+  background: linear-gradient(to right, #555 0%, #bbb 100%);
+}
+
+/* ------------------------------------------------------------------------- */
+
+.navbar-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+/* ------------------------------------------------------------------------- */
+
+.navbar-logo {
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 70px;
+  height: 70px;
+}
+
+.navbar-logo-dark {
+  background-image: url(../../images/navbar/logo_dark.png);
+  transition: all 0.5s ease;
+}
+
+.navbar-logo-light {
+  background-image: url(../../images/navbar/logo_light.png);
+  transition: all 0.5s ease;
+}
+
+.navbar-container .navbar-tooltip {
+  color: black;
+  padding: 10px;
+  background-color: coral;
+  font-family: 'Century Gothic';
+  font-size: 1rem;
+}
+
+/* ------------------------------------------------------------------------- */
+
+.navbar-logo-text {
+  white-space: nowrap;
+  font-family: 'Century Gothic';
+  line-height: 35px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-decoration: none;
+  transition: color 0.4s ease-out;
+}
+
+.navbar-logo-text-top {
+  font-size: 1.0rem;
+  margin: 0;
+  padding-bottom: 10px;
+  line-height: 100%;
+}
+
+.navbar-logo-text-bottom {
+  font-size: 1.55rem;
+  margin: 0;
+  padding: 0;
+  line-height: 100%;
+}
+
+.navbar-logo-text:hover {
+  color: orangered;
+}
+
+.navbar-logo-text-dark {
+  color: orange;
+}
+
+.navbar-logo-text-light {
+  color: orange;
+}
+
+/* ------------------------------------------------------------------------- */
+
+.nav-menu {
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  grid-gap: 10px;
+  list-style: none;
+  width: 60vw;
+  text-align: center;
+  justify-content: end;
+  margin-right: 32px;
+}
+
+/* ------------------------------------------------------------------------- */
+
+.nav-item {
+  line-height: 100px;
+  height: 100px;
+  font-size: 1.3rem;
+}
+
+/* ------------------------------------------------------------------------- */
+
+.nav-links, .nav-links-here {
+  text-decoration: none;
+  font-family: 'Century Gothic';
+  letter-spacing: 1px;
+  display: flex;
+  padding: 0rem 1rem;
+  height: 100px;
+  transition: all 0.5s ease-out;
+  white-space: nowrap;
+}
+
+.nav-links:hover {
+  box-shadow: inset 0 -5px 0 orange;
+  transition: all 0.5s ease-out;
+}
+
+.nav-links-here {
+  box-shadow: inset 0 -5px 0 0 orangered;
+}
+
+.nav-links-dark { 
+  color: #fff; 
+}
+
+.nav-links-light { 
+  color: #000; 
+}
+
+/* ------------------------------------------------------------------------- */
+
+.dropdown-rectangle {
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  background: orange;
+  align-items: center;
+  box-shadow: inset 1px 0 orangered, inset -1px 0 orangered;
+  transition: all 0.5s ease-out;
+}
+
+.dropdown-rectangle:hover {
+  cursor: pointer;
+  background: orangered;
+  transition: all 0.5s ease-out;
+}
+
+/* ------------------------------------------------------------------------- */
+
+.dropdown-link {
+  color: black;
+  text-decoration: none;
+  font-family: 'Century Gothic';
+  letter-spacing: 1px;
+  font-size: 1.1rem;
+  height: 100%;
+  width: 100%;
+}
+
+/* ------------------------------------------------------------------------- */
+
+.menu-icon {
+  display: none;
+}
+
+.nav-links-mobile, .nav-links-mobile-red {
+  display: none;
+}
+
+/* ------------------------------------------------------------------------- */
+
+@media screen and (max-width: 960px) {
+
+  .nav-menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    background: #242222;
+    width: 100%;
+    height: 90vh;
+    position: absolute;
+    top: 100px;
+    padding-top: 30px;
+    left: -100%;
+    margin:0;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    transition: all 0.5s ease;
+  }
+
+  .nav-menu.active {
+    position: absolute;
+    left: 0;
+    z-index: 1;
+  }
+
+  .nav-item {
+    height: 10vh;
+    line-height: 10vh;
+  }
+
+  .nav-links, .nav-links-here {
+    color: #fff;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 10vh;
+    display: table;
+  }
+
+  .nav-links:hover {
+    background-color: #fff;
+    color: #242424;
+    box-shadow: none;
+  }
+
+  .nav-links-here {
+    box-shadow: inset 2px 2px orangered, inset -2px -2px orangered;
+  }
+
+  .navbar-logo {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    left: 0;
+    top: calc(50% - 30px);
+    transform: translate(0, 0);
+  }
+
+  .navbar-logo-text {
+    font-size: 1.3rem;
+    position: absolute;
+    top: 50px;
+    left: 0;
+    transform: translate(90px, -50%);
+  }
+
+  .menu-icon {
+    line-height: 45px;
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: translate(-100%, 60%);
+    color: white;
+    cursor: pointer;
+    font-family: 'Century Gothic';
+    letter-spacing: 1px;
+  }
+
+  .fa-bars {
+    font-size: 1.8rem;
+  }
+
+  .fa-times {
+    font-size: 2.2rem;
+    transform: translate(0px, 2px);
+  }
+
+  .nav-links-mobile, .nav-links-mobile-red {
+    display: block;
+    margin: 3% auto;
+    width: 80%;
+    padding: 14px 20px;
+    text-align: center;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 1.5rem;
+    background-color: transparent;
+    color: #fff;
+    border: 1px solid #fff;
+    font-family: 'Century Gothic';
+    transition: all 0.3s ease-out;
+  }
+
+  .nav-links-mobile:hover {
+    background-color: orange;
+    color: #242424;
+    transition: 1s;
+    box-shadow: none;
+  }
+
+  .nav-links-mobile-red {
+    border: 1px solid orangered;
+  }
+}
+
+/* ------------------------------------------------------------------------- */
+
+@media screen and (max-width: 390px) {
+
+  .navbar-logo-text-top {
+    font-size: 0.8rem;
+  }
+
+  .navbar-logo-text-bottom {
+    font-size: 1.3rem;
+  }
+}
+
+/* ------------------------------------------------------------------------- */
+
+@media screen and (max-width: 360px) {
+
+  .navbar-logo-text-top {
+    font-size: 0.8rem;
+  }
+
+  .navbar-logo-text-bottom {
+    font-size: 1.2rem;
+  }
+}
+
+/* ------------------------------------------------------------------------- */
+
+@media screen and (max-width: 330px) {
+
+  .navbar-logo-text-top {
+    font-size: 0.7rem;
+  }
+
+  .navbar-logo-text-bottom {
+    font-size: 1.1rem;
+  }
+}

@@ -1,0 +1,225 @@
+.body-bg {
+  display: flex;
+  justify-content: center;
+  min-height: calc(100vh - 230px);
+}
+
+/* ------------------------------------------------------------------------- */
+
+.title-blob {
+  text-align: center;
+  line-height: 100px;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+  height: 100px;
+  font-family: 'Century Gothic';
+  font-weight: bold;
+  font-size: 3rem;
+  letter-spacing: 2px;
+  display: block;
+}
+
+.title-blob-dark {
+  background-color: rgba(80, 80, 80, 0.8);
+  color: white;
+  transition: 0.5s;
+}
+
+.title-blob-light {
+  background-color: rgba(140, 140, 140, 0.2);
+  color: black;
+  transition: 0.5s;
+}
+
+/* ------------------------------------------------------------------------- */
+
+.text-box {
+  height: -moz-max-content;
+  height: fit-content;
+  margin-top: 0px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+  border: 2px solid;
+  font-family: 'Century Gothic';
+  font-size: 1.2rem;
+  line-height: 150%;
+  display: block;
+  overflow: auto;
+  float: left;
+  text-align: justify;
+  hyphens: auto;
+}
+
+.text-box-dark {
+  border-color: rgba(140, 140, 140, 0.2);
+  background-color: rgba(48, 48, 48, 0.7);
+  color: white;
+}
+
+.text-box-light {
+  border-color: rgba(0, 0, 0, 0.2);
+  background-color: rgba(235, 235, 235, 0.6);
+  color: black;
+}
+
+.text-box-padded {
+  width: calc(100% - 64px);
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.text-box-padded-not-below {
+  width: calc(100% - 64px);
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.text-box-padded-extra {
+  width: calc(100% - 84px);
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+/* ------------------------------------------------------------------------- */
+
+.full-width {
+  width: 100%;
+}
+
+/* ------------------------------------------------------------------------- */
+
+.dedent {
+  margin-left: -20px;
+  line-height: 30px;
+}
+
+/* ------------------------------------------------------------------------- */
+
+.article-centered {
+  background-color: transparent;
+  width: calc(100vw - 300px);
+  min-height: calc(100vh - 230px);
+  margin: 0;
+  padding: 0;
+  display: block;
+}
+
+/* ------------------------------------------------------------------------- */
+
+.link {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* ------------------------------------------------------------------------- */
+
+.link-orange {
+  color: orange;
+}
+
+.link-blue {
+  color: #03a2dc;
+}
+
+.link-coral {
+  color: coral;
+}
+
+.link-orange:hover, .link-coral:hover {
+  color: orangered;
+}
+
+/* ------------------------------------------------------------------------- */
+
+.link-dark-orange {
+  color: rgba(255, 150, 100);
+}
+
+.link-dark-orange:hover {
+  color: red;
+}
+
+/* ------------------------------------------------------------------------- */
+
+.link-red {
+  text-decoration: none;
+  font-weight: bold;
+  color: rgb(255, 100, 100);
+}
+
+.link-red:hover {
+  color: rgb(255, 100, 200);
+}
+
+/* ------------------------------------------------------------------------- */
+
+.link-green {
+  color: #76b900;
+}
+
+.link-green:hover {
+  color: green;
+}
+
+/* ------------------------------------------------------------------------- */
+
+@media screen and (max-width: 960px) {
+
+  .home-bg-img {
+    max-height: calc(100vh - 200px);
+  }
+
+  .article-centered {
+    width: calc(100vw - 50px);
+  }
+}
+
+/* ------------------------------------------------------------------------- */
+
+@media screen and (max-width: 500px) {
+
+  .text-box {
+    text-align: left;
+    hyphens: none;
+  }
+}
+
+/* ------------------------------------------------------------------------- */
+
+@media screen and (max-width: 500px) {
+
+  .title-blob {
+    font-size: 2.8rem;
+  }
+}
+
+/* ------------------------------------------------------------------------- */
+
+@media screen and (max-width: 400px) {
+
+  .title-blob {
+    font-size: 2.4rem;
+  }
+}
+
+/* ------------------------------------------------------------------------- */
+
+@media screen and (max-width: 350px) {
+
+  .title-blob {
+    font-size: 2rem;
+  }
+}
+
+/* ------------------------------------------------------------------------- */
+
+@media screen and (max-width: 300px) {
+
+  .title-blob {
+    font-size: 1.8rem;
+  }
+}

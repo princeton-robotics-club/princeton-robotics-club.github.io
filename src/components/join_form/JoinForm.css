@@ -1,0 +1,146 @@
+.form-row {
+  border: none;
+  line-height: 4rem;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: left;
+  align-items: center;
+}
+
+.multi-column {
+  column-gap: 30px;
+}
+
+/* ------------------------------------------------------------------------- */
+
+.form-field, .submit-button, .radio-label {
+  height: 2em;
+  border-radius: 1em;
+  border: 1px solid #888;
+  font-size: 100%;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  font-family: 'Century Gothic';
+}
+
+/* ------------------------------------------------------------------------- */
+
+.form-field {
+  border: none;
+}
+
+.form-field-small {
+  max-width: calc(100% - 4rem);
+}
+
+.form-field-dark, .submit-button-dark {
+  background-color: rgba(0,0,0,0.3);
+  color: white;
+}
+
+.form-field-light, .submit-button-light {
+  background-color: rgba(255,255,255,0.7);
+  color: black;
+}
+
+/* ------------------------------------------------------------------------- */
+
+.submit-button {
+  margin-top: 2rem;
+  width: 6em;
+}
+
+.submit-button:hover, .radio-label:hover {
+  transition: all 0.5s ease;
+  cursor: pointer;
+}
+
+.submit-button-dark:hover, .radio-label-dark:hover {
+  background-color: orange;
+  color: black;
+}
+
+.submit-button-light:hover, .radio-label-light:hover {
+  background-color: coral;
+  color: black;
+}
+
+/* ------------------------------------------------------------------------- */
+
+.radio-label {
+  float: left;
+  line-height: 100%;
+  border: 1px solid #888;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.radio-label span {
+  text-align:center;
+  font-size: 100%;
+  padding:0;
+  display:block;
+}
+
+.radio-label input {
+  position:absolute;
+  top:-20px;
+}
+
+/* ------------------------------------------------------------------------- */
+
+.label {
+  padding-right: 1em;
+  font-size: 100%;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 60px var(--autofill-bg-color) inset!important;
+  -webkit-text-fill-color: var(--autofill-color);
+  border: 2px solid orangered;
+}
+
+/* ------------------------------------------------------------------------- */
+
+.required {
+  color: orangered;
+}
+
+.checked {
+  background-color: orangered;
+  color: black;
+  transition: all 0.5s ease;
+}
+
+.checked:hover {
+  background-color: orangered
+}
+
+/* ------------------------------------------------------------------------- */
+
+.first-name, .last-name {
+  flex-grow: 1;
+  max-width: calc(min(600px, 100%));
+}
+
+.org, .email-addr {
+  flex-grow: 1;
+  max-width: calc(min(600px, 100%));
+}
+
+.message {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  width: 100%;
+  height: 8rem;
+  resize: vertical;
+}
+
+/* ------------------------------------------------------------------------- */
+
