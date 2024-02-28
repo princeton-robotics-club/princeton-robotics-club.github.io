@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.b764ce48.css",
-    "main.js": "/static/js/main.7fc694c0.js",
+    "main.js": "/static/js/main.aafbc06a.js",
     "static/media/pacbot-4.mov": "/static/media/pacbot-4.dccfd34c3cf2761e5ca1.mov",
+    "static/media/th5879.jpg": "/static/media/th5879.bc109329145f5c522d82.jpg",
     "static/media/droid-2.jpg": "/static/media/droid-2.b16befdc6b76d0af9a04.jpg",
     "static/media/drone-1.jpg": "/static/media/drone-1.8e23025047ae059583e2.jpg",
     "static/media/PURC Logo Blue.svg": "/static/media/PURC Logo Blue.edf9baf595cfcf805272.svg",
     "static/media/droid-3.jpg": "/static/media/droid-3.5d56a4b51013e8b3c861.jpg",
     "static/media/logo_light.png": "/static/media/logo_light.f086cd38e47fae9bd8bb.png",
+    "static/media/za3545.jpg": "/static/media/za3545.75604cea6fc19ff33e05.jpg",
     "static/media/drone-2.jpg": "/static/media/drone-2.cda8763e3329034a731b.jpg",
     "static/media/droid-1.jpg": "/static/media/droid-1.3f386509e548d3b8960d.jpg",
     "static/media/pacbot-4.jpg": "/static/media/pacbot-4.eea427e5990f1c8933d7.jpg",
@@ -18,6 +20,7 @@
     "static/media/rover-2.png": "/static/media/rover-2.440b6516ab9fe1c9c926.png",
     "static/media/e_quad.jpg": "/static/media/e_quad.d367c64059747ae37ce2.jpg",
     "static/media/bg_support.png": "/static/media/bg_support.be42e89413364d98e5ee.png",
+    "static/media/dd6849.jpg": "/static/media/dd6849.8696c0812364982adae0.jpg",
     "static/media/droid-4.jpg": "/static/media/droid-4.091059c40612338e5b99.jpg",
     "static/media/robocup-logo.svg": "/static/media/robocup-logo.41761330ee3bb55b9329.svg",
     "static/media/pacbot-2.jpg": "/static/media/pacbot-2.6e168a85f30802cd9d85.jpg",
@@ -30,12 +33,15 @@
     "static/media/lyon.png": "/static/media/lyon.2a285b7e316b09d9eead.png",
     "static/media/wh9128.jpg": "/static/media/wh9128.2302281cf0b222aaf9de.jpg",
     "static/media/Just-Sans-Regular.otf": "/static/media/Just-Sans-Regular.4ea0fcccc6094d2b112e.otf",
+    "static/media/gn7269.jpg": "/static/media/gn7269.37b8dc2689d3cc951fe2.jpg",
     "static/media/pacbot-logo.svg": "/static/media/pacbot-logo.273777cfd46146e342be.svg",
     "static/media/drone-logo.svg": "/static/media/drone-logo.9fb5c1fdce3c4c0793f7.svg",
     "static/media/mh6419.jpg": "/static/media/mh6419.9f6e206688828022968c.jpg",
     "static/media/droid-logo.svg": "/static/media/droid-logo.bbf4a608bcb99537b9c6.svg",
     "static/media/dc4266.jpg": "/static/media/dc4266.fa3f571c9d694dcb4d89.jpg",
+    "static/media/aw3592.jpeg": "/static/media/aw3592.fb09b1e88eb16c805ac8.jpeg",
     "static/media/pacbot-3.jpg": "/static/media/pacbot-3.e06f4dc2f3659d1eacfe.jpg",
+    "static/media/ck4287.jpg": "/static/media/ck4287.f35eaf4eb2f7127c4b44.jpg",
     "static/media/ih2422.jpg": "/static/media/ih2422.83f431868b4704963c91.jpg",
     "static/media/jt7347.jpg": "/static/media/jt7347.dd6af7593c605c1e2b3b.jpg",
     "static/media/ms8364.jpg": "/static/media/ms8364.5051d59ff24279a23e5f.jpg",
@@ -44,10 +50,8 @@
     "static/media/bg_about.png": "/static/media/bg_about.de4bd1ec47c29293c9ba.png",
     "static/media/edchen.jpg": "/static/media/edchen.e5cdecfee1c61072628a.jpg",
     "static/media/an4978.jpg": "/static/media/an4978.1cf3ab0c6e8e2b042adf.jpg",
-    "static/media/yijint.jpg": "/static/media/yijint.d5ab003f45c1427f1e14.jpg",
     "static/media/odus_logo.png": "/static/media/odus_logo.a6151e3060f6ef4682b6.png",
     "static/media/js4346.jpg": "/static/media/js4346.129b595a1cccbf44d436.jpg",
-    "static/media/lglisic.jpg": "/static/media/lglisic.53a3b3e58866c3619137.jpg",
     "static/media/cst.png": "/static/media/cst.1a1ba02767a6c0c3c96e.png",
     "static/media/majumdar.jpg": "/static/media/majumdar.c69524469facdd431e47.jpg",
     "static/media/arthurts.jpg": "/static/media/arthurts.13783f06eb36c8b188b4.jpg",
@@ -57,10 +61,10 @@
     "static/media/august.jpg": "/static/media/august.c70c2e366d828ebdc515.jpg",
     "index.html": "/index.html",
     "main.b764ce48.css.map": "/static/css/main.b764ce48.css.map",
-    "main.7fc694c0.js.map": "/static/js/main.7fc694c0.js.map"
+    "main.aafbc06a.js.map": "/static/js/main.aafbc06a.js.map"
   },
   "entrypoints": [
     "static/css/main.b764ce48.css",
-    "static/js/main.7fc694c0.js"
+    "static/js/main.aafbc06a.js"
   ]
 }
