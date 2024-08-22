@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.45d20fbb.css",
-    "main.js": "/static/js/main.675aed75.js",
+    "main.css": "/static/css/main.01970f54.css",
+    "main.js": "/static/js/main.546295c8.js",
     "static/media/pacbot-4.mov": "/static/media/pacbot-4.dccfd34c3cf2761e5ca1.mov",
     "static/media/th5879.jpg": "/static/media/th5879.bc109329145f5c522d82.jpg",
     "static/media/droid-2.jpg": "/static/media/droid-2.b16befdc6b76d0af9a04.jpg",
@@ -24,7 +24,6 @@
     "static/media/cg6149.png": "/static/media/cg6149.2ca2a961845c84eedb56.png",
     "static/media/sg8409.jpg": "/static/media/sg8409.9ee63eaa171616a8d758.jpg",
     "static/media/jt1065.jpg": "/static/media/jt1065.5e1f3e5d5bef9d916a8f.jpg",
-    "static/media/rover-2.png": "/static/media/rover-2.440b6516ab9fe1c9c926.png",
     "static/media/e_quad.jpg": "/static/media/e_quad.d367c64059747ae37ce2.jpg",
     "static/media/ey3875.jpeg": "/static/media/ey3875.b87c20759206407e8d60.jpeg",
     "static/media/mm5764.jpg": "/static/media/mm5764.a11e90a7de824be592fe.jpg",
@@ -40,9 +39,9 @@
     "static/media/exoskeleton-logo.svg": "/static/media/exoskeleton-logo.d5dd33d239058308acd0.svg",
     "static/media/bionics-logo.svg": "/static/media/bionics-logo.84dbb30cc5318604a1a3.svg",
     "static/media/rover-logo.svg": "/static/media/rover-logo.84dbb30cc5318604a1a3.svg",
-    "static/media/tinker-logo.svg": "/static/media/tinker-logo.84dbb30cc5318604a1a3.svg",
     "static/media/wall-e-logo.svg": "/static/media/wall-e-logo.84dbb30cc5318604a1a3.svg",
     "static/media/Century-Gothic.ttf": "/static/media/Century-Gothic.b194aa2bd524e2c973f7.ttf",
+    "static/media/tinker-logo.svg": "/static/media/tinker-logo.b9e0dd7b816197ed72d9.svg",
     "static/media/lyon.png": "/static/media/lyon.2a285b7e316b09d9eead.png",
     "static/media/wh9128.jpg": "/static/media/wh9128.2302281cf0b222aaf9de.jpg",
     "static/media/Just-Sans-Regular.otf": "/static/media/Just-Sans-Regular.4ea0fcccc6094d2b112e.otf",
@@ -52,6 +51,7 @@
     "static/media/mh6419.jpg": "/static/media/mh6419.9f6e206688828022968c.jpg",
     "static/media/droid-logo.svg": "/static/media/droid-logo.bbf4a608bcb99537b9c6.svg",
     "static/media/dc4266.jpg": "/static/media/dc4266.fa3f571c9d694dcb4d89.jpg",
+    "static/media/jm7828.jpg": "/static/media/jm7828.2c409b0c5ba4d332ee7f.jpg",
     "static/media/zk9002.jpg": "/static/media/zk9002.ca06c3856ba3445218e7.jpg",
     "static/media/aw3592.jpeg": "/static/media/aw3592.fb09b1e88eb16c805ac8.jpeg",
     "static/media/pacbot-3.jpg": "/static/media/pacbot-3.e06f4dc2f3659d1eacfe.jpg",
@@ -75,11 +75,11 @@
     "static/media/ernestm.jpg": "/static/media/ernestm.f297afc2b69956781256.jpg",
     "static/media/august.jpg": "/static/media/august.c70c2e366d828ebdc515.jpg",
     "index.html": "/index.html",
-    "main.45d20fbb.css.map": "/static/css/main.45d20fbb.css.map",
-    "main.675aed75.js.map": "/static/js/main.675aed75.js.map"
+    "main.01970f54.css.map": "/static/css/main.01970f54.css.map",
+    "main.546295c8.js.map": "/static/js/main.546295c8.js.map"
   },
   "entrypoints": [
-    "static/css/main.45d20fbb.css",
-    "static/js/main.675aed75.js"
+    "static/css/main.01970f54.css",
+    "static/js/main.546295c8.js"
   ]
 }
