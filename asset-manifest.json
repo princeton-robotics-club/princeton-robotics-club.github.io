@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.01970f54.css",
-    "main.js": "/static/js/main.546295c8.js",
+    "main.css": "/static/css/main.c40c575d.css",
+    "main.js": "/static/js/main.83c4e6a4.js",
     "static/media/pacbot-4.mov": "/static/media/pacbot-4.dccfd34c3cf2761e5ca1.mov",
     "static/media/th5879.jpg": "/static/media/th5879.bc109329145f5c522d82.jpg",
     "static/media/droid-2.jpg": "/static/media/droid-2.b16befdc6b76d0af9a04.jpg",
@@ -20,6 +20,7 @@
     "static/media/droid-construction.png": "/static/media/droid-construction.636dc80c6d9315f21f81.png",
     "static/media/droid-team.png": "/static/media/droid-team.18222f44be726e71fee3.png",
     "static/media/pacbot-1.jpg": "/static/media/pacbot-1.4151521c4d25938790e8.jpg",
+    "static/media/bionics-logo.svg": "/static/media/bionics-logo.75ce9b8a98baebf8d13a.svg",
     "static/media/kphan.jpg": "/static/media/kphan.6eb73251f43a07de0bf9.jpg",
     "static/media/cg6149.png": "/static/media/cg6149.2ca2a961845c84eedb56.png",
     "static/media/sg8409.jpg": "/static/media/sg8409.9ee63eaa171616a8d758.jpg",
@@ -30,21 +31,20 @@
     "static/media/bg_support.png": "/static/media/bg_support.be42e89413364d98e5ee.png",
     "static/media/dd6849.jpg": "/static/media/dd6849.8696c0812364982adae0.jpg",
     "static/media/droid-4.jpg": "/static/media/droid-4.091059c40612338e5b99.jpg",
-    "static/media/robocup-logo.svg": "/static/media/robocup-logo.41761330ee3bb55b9329.svg",
     "static/media/alex-glaser.jpg": "/static/media/alex-glaser.ffeaefc2575e848fdfa0.jpg",
     "static/media/pacbot-2.jpg": "/static/media/pacbot-2.6e168a85f30802cd9d85.jpg",
     "static/media/drone-3.jpg": "/static/media/drone-3.3560110dd3d901b1b87c.jpg",
     "static/media/rover-1.jpg": "/static/media/rover-1.582699bd4575592ce6cb.jpg",
     "static/media/golf-logo.svg": "/static/media/golf-logo.715e7e8217be9a10eb16.svg",
     "static/media/exoskeleton-logo.svg": "/static/media/exoskeleton-logo.d5dd33d239058308acd0.svg",
-    "static/media/bionics-logo.svg": "/static/media/bionics-logo.84dbb30cc5318604a1a3.svg",
     "static/media/rover-logo.svg": "/static/media/rover-logo.84dbb30cc5318604a1a3.svg",
-    "static/media/wall-e-logo.svg": "/static/media/wall-e-logo.84dbb30cc5318604a1a3.svg",
     "static/media/Century-Gothic.ttf": "/static/media/Century-Gothic.b194aa2bd524e2c973f7.ttf",
     "static/media/tinker-logo.svg": "/static/media/tinker-logo.b9e0dd7b816197ed72d9.svg",
     "static/media/lyon.png": "/static/media/lyon.2a285b7e316b09d9eead.png",
+    "static/media/robocup-logo.svg": "/static/media/robocup-logo.69f1149404ca39e4dd59.svg",
     "static/media/wh9128.jpg": "/static/media/wh9128.2302281cf0b222aaf9de.jpg",
     "static/media/Just-Sans-Regular.otf": "/static/media/Just-Sans-Regular.4ea0fcccc6094d2b112e.otf",
+    "static/media/wall-e-logo.svg": "/static/media/wall-e-logo.07d9e3f6794383801158.svg",
     "static/media/gn7269.jpg": "/static/media/gn7269.37b8dc2689d3cc951fe2.jpg",
     "static/media/pacbot-logo.svg": "/static/media/pacbot-logo.273777cfd46146e342be.svg",
     "static/media/drone-logo.svg": "/static/media/drone-logo.9fb5c1fdce3c4c0793f7.svg",
@@ -65,6 +65,8 @@
     "static/media/bg_about.png": "/static/media/bg_about.de4bd1ec47c29293c9ba.png",
     "static/media/edchen.jpg": "/static/media/edchen.e5cdecfee1c61072628a.jpg",
     "static/media/an4978.jpg": "/static/media/an4978.1cf3ab0c6e8e2b042adf.jpg",
+    "static/media/ey3875.jpg": "/static/media/ey3875.dcc370182a6ebdbc8a9d.jpg",
+    "static/media/ac1180.jpg": "/static/media/ac1180.b5e4f15aea281990ecb0.jpg",
     "static/media/odus_logo.png": "/static/media/odus_logo.a6151e3060f6ef4682b6.png",
     "static/media/js4346.jpg": "/static/media/js4346.129b595a1cccbf44d436.jpg",
     "static/media/cst.png": "/static/media/cst.1a1ba02767a6c0c3c96e.png",
@@ -74,12 +76,13 @@
     "static/media/dc2326.jpg": "/static/media/dc2326.bfb2fb49edaccf019f30.jpg",
     "static/media/ernestm.jpg": "/static/media/ernestm.f297afc2b69956781256.jpg",
     "static/media/august.jpg": "/static/media/august.c70c2e366d828ebdc515.jpg",
+    "static/media/as3115.jpg": "/static/media/as3115.998880da3ba4ae895bd9.jpg",
     "index.html": "/index.html",
-    "main.01970f54.css.map": "/static/css/main.01970f54.css.map",
-    "main.546295c8.js.map": "/static/js/main.546295c8.js.map"
+    "main.c40c575d.css.map": "/static/css/main.c40c575d.css.map",
+    "main.83c4e6a4.js.map": "/static/js/main.83c4e6a4.js.map"
   },
   "entrypoints": [
-    "static/css/main.01970f54.css",
-    "static/js/main.546295c8.js"
+    "static/css/main.c40c575d.css",
+    "static/js/main.83c4e6a4.js"
   ]
 }
