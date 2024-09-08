@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0d735cc4.css",
-    "main.js": "/static/js/main.7365f6ae.js",
+    "main.js": "/static/js/main.eac609f1.js",
     "static/media/pacbot-4.mov": "/static/media/pacbot-4.dccfd34c3cf2761e5ca1.mov",
     "static/media/th5879.jpg": "/static/media/th5879.bc109329145f5c522d82.jpg",
     "static/media/droid-2.jpg": "/static/media/droid-2.b16befdc6b76d0af9a04.jpg",
@@ -16,6 +16,7 @@
     "static/media/pacbot-4.jpg": "/static/media/pacbot-4.eea427e5990f1c8933d7.jpg",
     "static/media/vv5226.jpg": "/static/media/vv5226.c026fc039767ad6574c7.jpg",
     "static/media/logo_dark.png": "/static/media/logo_dark.00ad1dc3b02df17968b9.png",
+    "static/media/droid-session.jpg": "/static/media/droid-session.84d70b5a73c5566463b1.jpg",
     "static/media/sr6770.jpg": "/static/media/sr6770.10f3fc26802ca0b2db97.jpg",
     "static/media/droid-construction.png": "/static/media/droid-construction.636dc80c6d9315f21f81.png",
     "static/media/droid-team.png": "/static/media/droid-team.18222f44be726e71fee3.png",
@@ -23,6 +24,7 @@
     "static/media/bionics-logo.svg": "/static/media/bionics-logo.75ce9b8a98baebf8d13a.svg",
     "static/media/kphan.jpg": "/static/media/kphan.6eb73251f43a07de0bf9.jpg",
     "static/media/cg6149.png": "/static/media/cg6149.2ca2a961845c84eedb56.png",
+    "static/media/droid-11.jpg": "/static/media/droid-11.f3543cdef8b2169e05e0.jpg",
     "static/media/sg8409.jpg": "/static/media/sg8409.9ee63eaa171616a8d758.jpg",
     "static/media/jt1065.jpg": "/static/media/jt1065.5e1f3e5d5bef9d916a8f.jpg",
     "static/media/Macintosh_and_boombox.jpg": "/static/media/Macintosh_and_boombox.11755596aed3fb76e0f9.jpg",
@@ -45,7 +47,6 @@
     "static/media/tinker-logo.svg": "/static/media/tinker-logo.b9e0dd7b816197ed72d9.svg",
     "static/media/es5889.jpg": "/static/media/es5889.48099f66a1709bf9bf3d.jpg",
     "static/media/lyon.png": "/static/media/lyon.2a285b7e316b09d9eead.png",
-    "static/media/wh9128.jpg": "/static/media/wh9128.2302281cf0b222aaf9de.jpg",
     "static/media/robocup-logo.svg": "/static/media/robocup-logo.af438a1e34cdf3f288e5.svg",
     "static/media/Just-Sans-Regular.otf": "/static/media/Just-Sans-Regular.4ea0fcccc6094d2b112e.otf",
     "static/media/wall-e-logo.svg": "/static/media/wall-e-logo.a5e0116e8f5114252b7b.svg",
@@ -54,6 +55,7 @@
     "static/media/drone-logo.svg": "/static/media/drone-logo.9fb5c1fdce3c4c0793f7.svg",
     "static/media/mh6419.jpg": "/static/media/mh6419.9f6e206688828022968c.jpg",
     "static/media/droid-logo.svg": "/static/media/droid-logo.bbf4a608bcb99537b9c6.svg",
+    "static/media/wm2964.jpg": "/static/media/wm2964.63954b5f68672ea13e67.jpg",
     "static/media/dc4266.jpg": "/static/media/dc4266.fa3f571c9d694dcb4d89.jpg",
     "static/media/jm7828.jpg": "/static/media/jm7828.2c409b0c5ba4d332ee7f.jpg",
     "static/media/zk9002.jpg": "/static/media/zk9002.ca06c3856ba3445218e7.jpg",
@@ -62,7 +64,6 @@
     "static/media/McMaster-Carr_logo.svg.png": "/static/media/McMaster-Carr_logo.svg.0c71b0c197503a0a8f29.png",
     "static/media/ih2422.jpg": "/static/media/ih2422.83f431868b4704963c91.jpg",
     "static/media/jt7347.jpg": "/static/media/jt7347.dd6af7593c605c1e2b3b.jpg",
-    "static/media/ms8364.jpg": "/static/media/ms8364.5051d59ff24279a23e5f.jpg",
     "static/media/sg6836.jpg": "/static/media/sg6836.5319bb253556514cb529.jpg",
     "static/media/rk3979.jpg": "/static/media/rk3979.c7fa49de53926601575a.jpg",
     "static/media/nvidia.png": "/static/media/nvidia.d9412cab3ab876c2712d.png",
@@ -87,10 +88,10 @@
     "static/media/hb7778.jpg": "/static/media/hb7778.6c8fb80291f30cda0304.jpg",
     "index.html": "/index.html",
     "main.0d735cc4.css.map": "/static/css/main.0d735cc4.css.map",
-    "main.7365f6ae.js.map": "/static/js/main.7365f6ae.js.map"
+    "main.eac609f1.js.map": "/static/js/main.eac609f1.js.map"
   },
   "entrypoints": [
     "static/css/main.0d735cc4.css",
-    "static/js/main.7365f6ae.js"
+    "static/js/main.eac609f1.js"
   ]
 }
