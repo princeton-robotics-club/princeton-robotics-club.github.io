@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0d735cc4.css",
-    "main.js": "/static/js/main.eac609f1.js",
+    "main.js": "/static/js/main.0b1e9a8d.js",
     "static/media/pacbot-4.mov": "/static/media/pacbot-4.dccfd34c3cf2761e5ca1.mov",
     "static/media/th5879.jpg": "/static/media/th5879.bc109329145f5c522d82.jpg",
     "static/media/droid-2.jpg": "/static/media/droid-2.b16befdc6b76d0af9a04.jpg",
@@ -47,6 +47,7 @@
     "static/media/tinker-logo.svg": "/static/media/tinker-logo.b9e0dd7b816197ed72d9.svg",
     "static/media/es5889.jpg": "/static/media/es5889.48099f66a1709bf9bf3d.jpg",
     "static/media/lyon.png": "/static/media/lyon.2a285b7e316b09d9eead.png",
+    "static/media/wh9128.jpg": "/static/media/wh9128.2302281cf0b222aaf9de.jpg",
     "static/media/robocup-logo.svg": "/static/media/robocup-logo.af438a1e34cdf3f288e5.svg",
     "static/media/Just-Sans-Regular.otf": "/static/media/Just-Sans-Regular.4ea0fcccc6094d2b112e.otf",
     "static/media/wall-e-logo.svg": "/static/media/wall-e-logo.a5e0116e8f5114252b7b.svg",
@@ -64,6 +65,7 @@
     "static/media/McMaster-Carr_logo.svg.png": "/static/media/McMaster-Carr_logo.svg.0c71b0c197503a0a8f29.png",
     "static/media/ih2422.jpg": "/static/media/ih2422.83f431868b4704963c91.jpg",
     "static/media/jt7347.jpg": "/static/media/jt7347.dd6af7593c605c1e2b3b.jpg",
+    "static/media/ms8364.jpg": "/static/media/ms8364.5051d59ff24279a23e5f.jpg",
     "static/media/sg6836.jpg": "/static/media/sg6836.5319bb253556514cb529.jpg",
     "static/media/rk3979.jpg": "/static/media/rk3979.c7fa49de53926601575a.jpg",
     "static/media/nvidia.png": "/static/media/nvidia.d9412cab3ab876c2712d.png",
@@ -88,10 +90,10 @@
     "static/media/hb7778.jpg": "/static/media/hb7778.6c8fb80291f30cda0304.jpg",
     "index.html": "/index.html",
     "main.0d735cc4.css.map": "/static/css/main.0d735cc4.css.map",
-    "main.eac609f1.js.map": "/static/js/main.eac609f1.js.map"
+    "main.0b1e9a8d.js.map": "/static/js/main.0b1e9a8d.js.map"
   },
   "entrypoints": [
     "static/css/main.0d735cc4.css",
-    "static/js/main.eac609f1.js"
+    "static/js/main.0b1e9a8d.js"
   ]
 }
