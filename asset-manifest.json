@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0d735cc4.css",
-    "main.js": "/static/js/main.2e8b4e9a.js",
+    "main.js": "/static/js/main.ff4a1bce.js",
     "static/media/pacbot-4.mov": "/static/media/pacbot-4.dccfd34c3cf2761e5ca1.mov",
     "static/media/th5879.jpg": "/static/media/th5879.bc109329145f5c522d82.jpg",
     "static/media/droid-2.jpg": "/static/media/droid-2.b16befdc6b76d0af9a04.jpg",
@@ -60,7 +60,6 @@
     "static/media/dc4266.jpg": "/static/media/dc4266.fa3f571c9d694dcb4d89.jpg",
     "static/media/jm7828.jpg": "/static/media/jm7828.2c409b0c5ba4d332ee7f.jpg",
     "static/media/zk9002.jpg": "/static/media/zk9002.ca06c3856ba3445218e7.jpg",
-    "static/media/aw3592.jpeg": "/static/media/aw3592.fb09b1e88eb16c805ac8.jpeg",
     "static/media/pacbot-3.jpg": "/static/media/pacbot-3.e06f4dc2f3659d1eacfe.jpg",
     "static/media/McMaster-Carr_logo.svg.png": "/static/media/McMaster-Carr_logo.svg.0c71b0c197503a0a8f29.png",
     "static/media/ih2422.jpg": "/static/media/ih2422.83f431868b4704963c91.jpg",
@@ -69,6 +68,7 @@
     "static/media/sg6836.jpg": "/static/media/sg6836.5319bb253556514cb529.jpg",
     "static/media/rk3979.jpg": "/static/media/rk3979.c7fa49de53926601575a.jpg",
     "static/media/nvidia.png": "/static/media/nvidia.d9412cab3ab876c2712d.png",
+    "static/media/fh9696.jpg": "/static/media/fh9696.bd624c851247100ec11d.jpg",
     "static/media/ns4593.jpg": "/static/media/ns4593.46224da7e6df7b4f080f.jpg",
     "static/media/ab0824.jpg": "/static/media/ab0824.6ebf2c25ca6cf859c7c1.jpg",
     "static/media/bg_about.png": "/static/media/bg_about.de4bd1ec47c29293c9ba.png",
@@ -77,12 +77,12 @@
     "static/media/ey3875.jpg": "/static/media/ey3875.dcc370182a6ebdbc8a9d.jpg",
     "static/media/ck4287.jpg": "/static/media/ck4287.3bbade10f5c8c501e62e.jpg",
     "static/media/ac1180.jpg": "/static/media/ac1180.b5e4f15aea281990ecb0.jpg",
+    "static/media/aw3592.jpeg": "/static/media/aw3592.5ad2a894caa6b8da3db5.jpeg",
     "static/media/odus_logo.png": "/static/media/odus_logo.a6151e3060f6ef4682b6.png",
     "static/media/js4346.jpg": "/static/media/js4346.129b595a1cccbf44d436.jpg",
     "static/media/cst.png": "/static/media/cst.1a1ba02767a6c0c3c96e.png",
     "static/media/majumdar.jpg": "/static/media/majumdar.c69524469facdd431e47.jpg",
     "static/media/arthurts.jpg": "/static/media/arthurts.13783f06eb36c8b188b4.jpg",
-    "static/media/fh9696.jpg": "/static/media/fh9696.c88d794c6d7d82c4e221.jpg",
     "static/media/dc2326.jpg": "/static/media/dc2326.bfb2fb49edaccf019f30.jpg",
     "static/media/ernestm.jpg": "/static/media/ernestm.f297afc2b69956781256.jpg",
     "static/media/august.jpg": "/static/media/august.c70c2e366d828ebdc515.jpg",
@@ -90,10 +90,10 @@
     "static/media/hb7778.jpg": "/static/media/hb7778.6c8fb80291f30cda0304.jpg",
     "index.html": "/index.html",
     "main.0d735cc4.css.map": "/static/css/main.0d735cc4.css.map",
-    "main.2e8b4e9a.js.map": "/static/js/main.2e8b4e9a.js.map"
+    "main.ff4a1bce.js.map": "/static/js/main.ff4a1bce.js.map"
   },
   "entrypoints": [
     "static/css/main.0d735cc4.css",
-    "static/js/main.2e8b4e9a.js"
+    "static/js/main.ff4a1bce.js"
   ]
 }
