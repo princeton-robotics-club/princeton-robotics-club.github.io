@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d735cc4.css",
-    "main.js": "/static/js/main.bb9a4311.js",
+    "main.css": "/static/css/main.b7cd4f1d.css",
+    "main.js": "/static/js/main.6099c14c.js",
     "static/media/pacbot-4.mov": "/static/media/pacbot-4.dccfd34c3cf2761e5ca1.mov",
     "static/media/th5879.jpg": "/static/media/th5879.bc109329145f5c522d82.jpg",
     "static/media/droid-2.jpg": "/static/media/droid-2.b16befdc6b76d0af9a04.jpg",
     "static/media/drone-1.jpg": "/static/media/drone-1.8e23025047ae059583e2.jpg",
     "static/media/PURC Logo Blue.svg": "/static/media/PURC Logo Blue.edf9baf595cfcf805272.svg",
+    "static/media/ng3922.png": "/static/media/ng3922.b8c49a6e08af00c2f71c.png",
     "static/media/droid-robot-construction.jpg": "/static/media/droid-robot-construction.74ed6f13d9766cdae235.jpg",
     "static/media/droid-3.jpg": "/static/media/droid-3.5d56a4b51013e8b3c861.jpg",
     "static/media/logo_light.png": "/static/media/logo_light.f086cd38e47fae9bd8bb.png",
@@ -89,11 +90,11 @@
     "static/media/as3115.jpg": "/static/media/as3115.998880da3ba4ae895bd9.jpg",
     "static/media/hb7778.jpg": "/static/media/hb7778.6c8fb80291f30cda0304.jpg",
     "index.html": "/index.html",
-    "main.0d735cc4.css.map": "/static/css/main.0d735cc4.css.map",
-    "main.bb9a4311.js.map": "/static/js/main.bb9a4311.js.map"
+    "main.b7cd4f1d.css.map": "/static/css/main.b7cd4f1d.css.map",
+    "main.6099c14c.js.map": "/static/js/main.6099c14c.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d735cc4.css",
-    "static/js/main.bb9a4311.js"
+    "static/css/main.b7cd4f1d.css",
+    "static/js/main.6099c14c.js"
   ]
 }
