@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.dde23ecf.css",
-    "main.js": "/static/js/main.5a6bd79d.js",
+    "main.js": "/static/js/main.41af201d.js",
     "static/media/pacbot-4.mov": "/static/media/pacbot-4.dccfd34c3cf2761e5ca1.mov",
     "static/media/th5879.jpg": "/static/media/th5879.bc109329145f5c522d82.jpg",
+    "static/media/golf-1.jpeg": "/static/media/golf-1.85dd5f6b2fd7e15f43dc.jpeg",
     "static/media/droid-2.jpg": "/static/media/droid-2.b16befdc6b76d0af9a04.jpg",
     "static/media/drone-1.jpg": "/static/media/drone-1.8e23025047ae059583e2.jpg",
     "static/media/PURC Logo Blue.svg": "/static/media/PURC Logo Blue.edf9baf595cfcf805272.svg",
     "static/media/drone-6.jpeg": "/static/media/drone-6.d70c494cf1ffc990eca9.jpeg",
+    "static/media/golf-3.jpeg": "/static/media/golf-3.89c71f7f7150e67bcdfa.jpeg",
     "static/media/ng3922.png": "/static/media/ng3922.b8c49a6e08af00c2f71c.png",
     "static/media/drone-4.jpeg": "/static/media/drone-4.d373f74de456261dc42e.jpeg",
     "static/media/droid-14.jpeg": "/static/media/droid-14.a43ded0e836d400b7ef0.jpeg",
@@ -18,6 +20,7 @@
     "static/media/drone-5.jpeg": "/static/media/drone-5.6de20bdfddd7512aee52.jpeg",
     "static/media/droid-13.jpeg": "/static/media/droid-13.d866273c1480a9c635e4.jpeg",
     "static/media/logo_light.png": "/static/media/logo_light.f086cd38e47fae9bd8bb.png",
+    "static/media/golf-2.jpeg": "/static/media/golf-2.dc926f637cb7c9ba8242.jpeg",
     "static/media/droid-12.jpeg": "/static/media/droid-12.a75978214d20b31687da.jpeg",
     "static/media/za3545.jpg": "/static/media/za3545.75604cea6fc19ff33e05.jpg",
     "static/media/drone-2.jpg": "/static/media/drone-2.cda8763e3329034a731b.jpg",
@@ -103,10 +106,10 @@
     "static/media/hb7778.jpg": "/static/media/hb7778.6c8fb80291f30cda0304.jpg",
     "index.html": "/index.html",
     "main.dde23ecf.css.map": "/static/css/main.dde23ecf.css.map",
-    "main.5a6bd79d.js.map": "/static/js/main.5a6bd79d.js.map"
+    "main.41af201d.js.map": "/static/js/main.41af201d.js.map"
   },
   "entrypoints": [
     "static/css/main.dde23ecf.css",
-    "static/js/main.5a6bd79d.js"
+    "static/js/main.41af201d.js"
   ]
 }
