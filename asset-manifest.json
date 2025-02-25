@@ -1,7 +1,12 @@
 {
   "files": {
+<<<<<<< HEAD
+    "main.css": "/static/css/main.46c2a018.css",
+    "main.js": "/static/js/main.9f0937a2.js",
+=======
     "main.css": "/static/css/main.306d32bf.css",
     "main.js": "/static/js/main.e3f02300.js",
+>>>>>>> 590f5e6b726b8a7f9250e339d637f5567919688e
     "static/media/pacbot-4.mov": "/static/media/pacbot-4.dccfd34c3cf2761e5ca1.mov",
     "static/media/th5879.jpg": "/static/media/th5879.bc109329145f5c522d82.jpg",
     "static/media/golf-1.jpeg": "/static/media/golf-1.85dd5f6b2fd7e15f43dc.jpeg",
@@ -12,6 +17,7 @@
     "static/media/golf-3.jpeg": "/static/media/golf-3.89c71f7f7150e67bcdfa.jpeg",
     "static/media/ng3922.png": "/static/media/ng3922.b8c49a6e08af00c2f71c.png",
     "static/media/drone-4.jpeg": "/static/media/drone-4.d373f74de456261dc42e.jpeg",
+    "static/media/bgc_speaker_event.jpg": "/static/media/bgc_speaker_event.268b917d775e14caafd2.jpg",
     "static/media/droid-14.jpeg": "/static/media/droid-14.a43ded0e836d400b7ef0.jpeg",
     "static/media/droid-robot-construction.jpg": "/static/media/droid-robot-construction.74ed6f13d9766cdae235.jpg",
     "static/media/exoskeleton-1.jpeg": "/static/media/exoskeleton-1.441364acc81898e4666c.jpeg",
@@ -34,7 +40,12 @@
     "static/media/droid-construction.png": "/static/media/droid-construction.636dc80c6d9315f21f81.png",
     "static/media/droid-team.png": "/static/media/droid-team.18222f44be726e71fee3.png",
     "static/media/pacbot-1.jpg": "/static/media/pacbot-1.4151521c4d25938790e8.jpg",
+<<<<<<< HEAD
+    "static/media/bionics-logo.svg": "/static/media/bionics-logo.75ce9b8a98baebf8d13a.svg",
+    "static/media/ot8429.jpg": "/static/media/ot8429.2e52103708591692378c.jpg",
+=======
     "static/media/bionics-logo.svg": "/static/media/bionics-logo.3e98e31589ea26dccc74.svg",
+>>>>>>> 590f5e6b726b8a7f9250e339d637f5567919688e
     "static/media/qh9879.jpg": "/static/media/qh9879.4cc7dbe06953c95d2e00.jpg",
     "static/media/kphan.jpg": "/static/media/kphan.6eb73251f43a07de0bf9.jpg",
     "static/media/cg6149.png": "/static/media/cg6149.2ca2a961845c84eedb56.png",
@@ -105,12 +116,22 @@
     "static/media/august.jpg": "/static/media/august.c70c2e366d828ebdc515.jpg",
     "static/media/as3115.jpg": "/static/media/as3115.998880da3ba4ae895bd9.jpg",
     "static/media/hb7778.jpg": "/static/media/hb7778.6c8fb80291f30cda0304.jpg",
+    "static/media/black-girls-code.avif": "/static/media/black-girls-code.af2c18db9b9f3a912a46.avif",
     "index.html": "/index.html",
+<<<<<<< HEAD
+    "main.46c2a018.css.map": "/static/css/main.46c2a018.css.map",
+    "main.9f0937a2.js.map": "/static/js/main.9f0937a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46c2a018.css",
+    "static/js/main.9f0937a2.js"
+=======
     "main.306d32bf.css.map": "/static/css/main.306d32bf.css.map",
     "main.e3f02300.js.map": "/static/js/main.e3f02300.js.map"
   },
   "entrypoints": [
     "static/css/main.306d32bf.css",
     "static/js/main.e3f02300.js"
+>>>>>>> 590f5e6b726b8a7f9250e339d637f5567919688e
   ]
 }
