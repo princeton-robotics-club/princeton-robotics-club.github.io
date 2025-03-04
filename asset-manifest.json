@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.46c2a018.css",
-    "main.js": "/static/js/main.9f0937a2.js",
+    "main.css": "/static/css/main.5076a010.css",
+    "main.js": "/static/js/main.ac99303e.js",
     "static/media/pacbot-4.mov": "/static/media/pacbot-4.dccfd34c3cf2761e5ca1.mov",
     "static/media/th5879.jpg": "/static/media/th5879.bc109329145f5c522d82.jpg",
     "static/media/golf-1.jpeg": "/static/media/golf-1.85dd5f6b2fd7e15f43dc.jpeg",
@@ -87,7 +87,6 @@
     "static/media/rk3979.jpg": "/static/media/rk3979.c7fa49de53926601575a.jpg",
     "static/media/nvidia.png": "/static/media/nvidia.d9412cab3ab876c2712d.png",
     "static/media/fh9696.jpg": "/static/media/fh9696.bd624c851247100ec11d.jpg",
-    "static/media/ns4593.jpg": "/static/media/ns4593.46224da7e6df7b4f080f.jpg",
     "static/media/ab0824.jpg": "/static/media/ab0824.6ebf2c25ca6cf859c7c1.jpg",
     "static/media/bg_about.png": "/static/media/bg_about.de4bd1ec47c29293c9ba.png",
     "static/media/edchen.jpg": "/static/media/edchen.e5cdecfee1c61072628a.jpg",
@@ -109,11 +108,11 @@
     "static/media/hb7778.jpg": "/static/media/hb7778.6c8fb80291f30cda0304.jpg",
     "static/media/black-girls-code.avif": "/static/media/black-girls-code.af2c18db9b9f3a912a46.avif",
     "index.html": "/index.html",
-    "main.46c2a018.css.map": "/static/css/main.46c2a018.css.map",
-    "main.9f0937a2.js.map": "/static/js/main.9f0937a2.js.map"
+    "main.5076a010.css.map": "/static/css/main.5076a010.css.map",
+    "main.ac99303e.js.map": "/static/js/main.ac99303e.js.map"
   },
   "entrypoints": [
-    "static/css/main.46c2a018.css",
-    "static/js/main.9f0937a2.js"
+    "static/css/main.5076a010.css",
+    "static/js/main.ac99303e.js"
   ]
 }
