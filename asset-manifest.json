@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2354eb2b.css",
-    "main.js": "/static/js/main.746d0394.js",
+    "main.css": "/static/css/main.2480db82.css",
+    "main.js": "/static/js/main.863a9d3d.js",
     "static/media/pacbot-4.mov": "/static/media/pacbot-4.dccfd34c3cf2761e5ca1.mov",
     "static/media/th5879.jpg": "/static/media/th5879.bc109329145f5c522d82.jpg",
     "static/media/golf-1.jpeg": "/static/media/golf-1.85dd5f6b2fd7e15f43dc.jpeg",
@@ -114,11 +114,11 @@
     "static/media/hb7778.jpg": "/static/media/hb7778.6c8fb80291f30cda0304.jpg",
     "static/media/black-girls-code.avif": "/static/media/black-girls-code.af2c18db9b9f3a912a46.avif",
     "index.html": "/index.html",
-    "main.2354eb2b.css.map": "/static/css/main.2354eb2b.css.map",
-    "main.746d0394.js.map": "/static/js/main.746d0394.js.map"
+    "main.2480db82.css.map": "/static/css/main.2480db82.css.map",
+    "main.863a9d3d.js.map": "/static/js/main.863a9d3d.js.map"
   },
   "entrypoints": [
-    "static/css/main.2354eb2b.css",
-    "static/js/main.746d0394.js"
+    "static/css/main.2480db82.css",
+    "static/js/main.863a9d3d.js"
   ]
 }
