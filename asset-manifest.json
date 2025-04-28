@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2480db82.css",
-    "main.js": "/static/js/main.863a9d3d.js",
+    "main.css": "/static/css/main.6ac3fd06.css",
+    "main.js": "/static/js/main.6ce59468.js",
     "static/media/pacbot-4.mov": "/static/media/pacbot-4.dccfd34c3cf2761e5ca1.mov",
     "static/media/th5879.jpg": "/static/media/th5879.bc109329145f5c522d82.jpg",
     "static/media/golf-1.jpeg": "/static/media/golf-1.85dd5f6b2fd7e15f43dc.jpeg",
@@ -23,9 +23,11 @@
     "static/media/logo_light.png": "/static/media/logo_light.f086cd38e47fae9bd8bb.png",
     "static/media/golf-2.jpeg": "/static/media/golf-2.dc926f637cb7c9ba8242.jpeg",
     "static/media/droid-12.jpeg": "/static/media/droid-12.a75978214d20b31687da.jpeg",
+    "static/media/princeton-splash-event.jpg": "/static/media/princeton-splash-event.6c07c236dfb287771c3f.jpg",
     "static/media/za3545.jpg": "/static/media/za3545.75604cea6fc19ff33e05.jpg",
     "static/media/drone-2.jpg": "/static/media/drone-2.cda8763e3329034a731b.jpg",
     "static/media/droid-1.jpg": "/static/media/droid-1.3f386509e548d3b8960d.jpg",
+    "static/media/princeton-splash.png": "/static/media/princeton-splash.18e10350c517211da13c.png",
     "static/media/pacbot-4.jpg": "/static/media/pacbot-4.eea427e5990f1c8933d7.jpg",
     "static/media/vv5226.jpg": "/static/media/vv5226.c026fc039767ad6574c7.jpg",
     "static/media/logo_dark.png": "/static/media/logo_dark.00ad1dc3b02df17968b9.png",
@@ -114,11 +116,11 @@
     "static/media/hb7778.jpg": "/static/media/hb7778.6c8fb80291f30cda0304.jpg",
     "static/media/black-girls-code.avif": "/static/media/black-girls-code.af2c18db9b9f3a912a46.avif",
     "index.html": "/index.html",
-    "main.2480db82.css.map": "/static/css/main.2480db82.css.map",
-    "main.863a9d3d.js.map": "/static/js/main.863a9d3d.js.map"
+    "main.6ac3fd06.css.map": "/static/css/main.6ac3fd06.css.map",
+    "main.6ce59468.js.map": "/static/js/main.6ce59468.js.map"
   },
   "entrypoints": [
-    "static/css/main.2480db82.css",
-    "static/js/main.863a9d3d.js"
+    "static/css/main.6ac3fd06.css",
+    "static/js/main.6ce59468.js"
   ]
 }
