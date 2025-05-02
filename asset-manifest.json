@@ -1,12 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.6ac3fd06.css",
-    "main.js": "/static/js/main.6ce59468.js",
+    "main.css": "/static/css/main.c59ad562.css",
+    "main.js": "/static/js/main.3e9e8e8f.js",
     "static/media/pacbot-4.mov": "/static/media/pacbot-4.dccfd34c3cf2761e5ca1.mov",
     "static/media/th5879.jpg": "/static/media/th5879.bc109329145f5c522d82.jpg",
     "static/media/golf-1.jpeg": "/static/media/golf-1.85dd5f6b2fd7e15f43dc.jpeg",
+    "static/media/team25-1.jpg": "/static/media/team25-1.a7ff8c82540a28373c1f.jpg",
     "static/media/droid-2.jpg": "/static/media/droid-2.b16befdc6b76d0af9a04.jpg",
+    "static/media/team25-5.jpg": "/static/media/team25-5.7806d3333fb40af62e2f.jpg",
     "static/media/drone-1.jpg": "/static/media/drone-1.8e23025047ae059583e2.jpg",
+    "static/media/team25-2.jpg": "/static/media/team25-2.a1811024552b958c69ba.jpg",
+    "static/media/team25-4.jpg": "/static/media/team25-4.a1811024552b958c69ba.jpg",
     "static/media/PURC Logo Blue.svg": "/static/media/PURC Logo Blue.edf9baf595cfcf805272.svg",
     "static/media/drone-6.jpeg": "/static/media/drone-6.d70c494cf1ffc990eca9.jpeg",
     "static/media/stem-to-stern-event.jpg": "/static/media/stem-to-stern-event.03fb167a7157b4ad86cf.jpg",
@@ -27,8 +31,8 @@
     "static/media/za3545.jpg": "/static/media/za3545.75604cea6fc19ff33e05.jpg",
     "static/media/drone-2.jpg": "/static/media/drone-2.cda8763e3329034a731b.jpg",
     "static/media/droid-1.jpg": "/static/media/droid-1.3f386509e548d3b8960d.jpg",
+    "static/media/team25-3.jpg": "/static/media/team25-3.ed5177c44f0c46a565f2.jpg",
     "static/media/princeton-splash.png": "/static/media/princeton-splash.18e10350c517211da13c.png",
-    "static/media/pacbot-4.jpg": "/static/media/pacbot-4.eea427e5990f1c8933d7.jpg",
     "static/media/vv5226.jpg": "/static/media/vv5226.c026fc039767ad6574c7.jpg",
     "static/media/logo_dark.png": "/static/media/logo_dark.00ad1dc3b02df17968b9.png",
     "static/media/cy4383.jpg": "/static/media/cy4383.6d53c3f1fc119ff7f210.jpg",
@@ -116,11 +120,11 @@
     "static/media/hb7778.jpg": "/static/media/hb7778.6c8fb80291f30cda0304.jpg",
     "static/media/black-girls-code.avif": "/static/media/black-girls-code.af2c18db9b9f3a912a46.avif",
     "index.html": "/index.html",
-    "main.6ac3fd06.css.map": "/static/css/main.6ac3fd06.css.map",
-    "main.6ce59468.js.map": "/static/js/main.6ce59468.js.map"
+    "main.c59ad562.css.map": "/static/css/main.c59ad562.css.map",
+    "main.3e9e8e8f.js.map": "/static/js/main.3e9e8e8f.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ac3fd06.css",
-    "static/js/main.6ce59468.js"
+    "static/css/main.c59ad562.css",
+    "static/js/main.3e9e8e8f.js"
   ]
 }
