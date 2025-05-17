@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c59ad562.css",
-    "main.js": "/static/js/main.3e9e8e8f.js",
+    "main.css": "/static/css/main.25d24e29.css",
+    "main.js": "/static/js/main.26785f11.js",
     "static/media/pacbot-4.mov": "/static/media/pacbot-4.dccfd34c3cf2761e5ca1.mov",
     "static/media/th5879.jpg": "/static/media/th5879.bc109329145f5c522d82.jpg",
     "static/media/golf-1.jpeg": "/static/media/golf-1.85dd5f6b2fd7e15f43dc.jpeg",
@@ -27,6 +27,7 @@
     "static/media/logo_light.png": "/static/media/logo_light.f086cd38e47fae9bd8bb.png",
     "static/media/golf-2.jpeg": "/static/media/golf-2.dc926f637cb7c9ba8242.jpeg",
     "static/media/droid-12.jpeg": "/static/media/droid-12.a75978214d20b31687da.jpeg",
+    "static/media/camden-ferry-library-event.png": "/static/media/camden-ferry-library-event.2ffac06422f61ae4d91f.png",
     "static/media/princeton-splash-event.jpg": "/static/media/princeton-splash-event.6c07c236dfb287771c3f.jpg",
     "static/media/za3545.jpg": "/static/media/za3545.75604cea6fc19ff33e05.jpg",
     "static/media/drone-2.jpg": "/static/media/drone-2.cda8763e3329034a731b.jpg",
@@ -89,6 +90,7 @@
     "static/media/zk9002.jpg": "/static/media/zk9002.ca06c3856ba3445218e7.jpg",
     "static/media/pacbot-3.jpg": "/static/media/pacbot-3.e06f4dc2f3659d1eacfe.jpg",
     "static/media/McMaster-Carr_logo.svg.png": "/static/media/McMaster-Carr_logo.svg.0c71b0c197503a0a8f29.png",
+    "static/media/winter-session-logo.png": "/static/media/winter-session-logo.acdae53d896132ee3b21.png",
     "static/media/ih2422.jpg": "/static/media/ih2422.83f431868b4704963c91.jpg",
     "static/media/jt7347.jpg": "/static/media/jt7347.dd6af7593c605c1e2b3b.jpg",
     "static/media/ms8364.jpg": "/static/media/ms8364.5051d59ff24279a23e5f.jpg",
@@ -120,11 +122,11 @@
     "static/media/hb7778.jpg": "/static/media/hb7778.6c8fb80291f30cda0304.jpg",
     "static/media/black-girls-code.avif": "/static/media/black-girls-code.af2c18db9b9f3a912a46.avif",
     "index.html": "/index.html",
-    "main.c59ad562.css.map": "/static/css/main.c59ad562.css.map",
-    "main.3e9e8e8f.js.map": "/static/js/main.3e9e8e8f.js.map"
+    "main.25d24e29.css.map": "/static/css/main.25d24e29.css.map",
+    "main.26785f11.js.map": "/static/js/main.26785f11.js.map"
   },
   "entrypoints": [
-    "static/css/main.c59ad562.css",
-    "static/js/main.3e9e8e8f.js"
+    "static/css/main.25d24e29.css",
+    "static/js/main.26785f11.js"
   ]
 }
