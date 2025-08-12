@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8abb51f4.css",
-    "main.js": "/static/js/main.ea4afbfb.js",
+    "main.css": "/static/css/main.e625b220.css",
+    "main.js": "/static/js/main.1fd2e5f4.js",
     "static/media/pacbot-4.mov": "/static/media/pacbot-4.dccfd34c3cf2761e5ca1.mov",
     "static/media/th5879.jpg": "/static/media/th5879.bc109329145f5c522d82.jpg",
     "static/media/golf-1.jpeg": "/static/media/golf-1.85dd5f6b2fd7e15f43dc.jpeg",
@@ -37,6 +37,7 @@
     "static/media/droid-construction.png": "/static/media/droid-construction.636dc80c6d9315f21f81.png",
     "static/media/droid-team.png": "/static/media/droid-team.18222f44be726e71fee3.png",
     "static/media/pacbot-1.jpg": "/static/media/pacbot-1.4151521c4d25938790e8.jpg",
+    "static/media/dsingh.png": "/static/media/dsingh.1bac70bf9c015bd22f23.png",
     "static/media/bionics-logo.svg": "/static/media/bionics-logo.75ce9b8a98baebf8d13a.svg",
     "static/media/ot8429.jpg": "/static/media/ot8429.2e52103708591692378c.jpg",
     "static/media/qh9879.jpg": "/static/media/qh9879.4cc7dbe06953c95d2e00.jpg",
@@ -105,6 +106,7 @@
     "static/media/cg6972.jpg": "/static/media/cg6972.ed2158354517c50a2b13.jpg",
     "static/media/odus_logo.png": "/static/media/odus_logo.a6151e3060f6ef4682b6.png",
     "static/media/js4346.jpg": "/static/media/js4346.129b595a1cccbf44d436.jpg",
+    "static/media/lglisic.jpg": "/static/media/lglisic.53a3b3e58866c3619137.jpg",
     "static/media/cst.png": "/static/media/cst.1a1ba02767a6c0c3c96e.png",
     "static/media/majumdar.jpg": "/static/media/majumdar.c69524469facdd431e47.jpg",
     "static/media/MouserLogo.png": "/static/media/MouserLogo.850075f113382bb3597a.png",
@@ -116,11 +118,11 @@
     "static/media/hb7778.jpg": "/static/media/hb7778.6c8fb80291f30cda0304.jpg",
     "static/media/black-girls-code.avif": "/static/media/black-girls-code.af2c18db9b9f3a912a46.avif",
     "index.html": "/index.html",
-    "main.8abb51f4.css.map": "/static/css/main.8abb51f4.css.map",
-    "main.ea4afbfb.js.map": "/static/js/main.ea4afbfb.js.map"
+    "main.e625b220.css.map": "/static/css/main.e625b220.css.map",
+    "main.1fd2e5f4.js.map": "/static/js/main.1fd2e5f4.js.map"
   },
   "entrypoints": [
-    "static/css/main.8abb51f4.css",
-    "static/js/main.ea4afbfb.js"
+    "static/css/main.e625b220.css",
+    "static/js/main.1fd2e5f4.js"
   ]
 }
