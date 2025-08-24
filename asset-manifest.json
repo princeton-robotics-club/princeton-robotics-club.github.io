@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e625b220.css",
-    "main.js": "/static/js/main.4391fea6.js",
+    "main.js": "/static/js/main.ff26dc0b.js",
     "static/media/pacbot-4.mov": "/static/media/pacbot-4.dccfd34c3cf2761e5ca1.mov",
     "static/media/th5879.jpg": "/static/media/th5879.bc109329145f5c522d82.jpg",
     "static/media/golf-1.jpeg": "/static/media/golf-1.85dd5f6b2fd7e15f43dc.jpeg",
@@ -29,6 +29,7 @@
     "static/media/droid-1.jpg": "/static/media/droid-1.3f386509e548d3b8960d.jpg",
     "static/media/princeton-splash.png": "/static/media/princeton-splash.18e10350c517211da13c.png",
     "static/media/pacbot-4.jpg": "/static/media/pacbot-4.eea427e5990f1c8933d7.jpg",
+    "static/media/gkopf.png": "/static/media/gkopf.ae44031513733a07ea16.png",
     "static/media/vv5226.jpg": "/static/media/vv5226.c026fc039767ad6574c7.jpg",
     "static/media/logo_dark.png": "/static/media/logo_dark.00ad1dc3b02df17968b9.png",
     "static/media/cy4383.jpg": "/static/media/cy4383.6d53c3f1fc119ff7f210.jpg",
@@ -51,10 +52,13 @@
     "static/media/jt1065.jpg": "/static/media/jt1065.5e1f3e5d5bef9d916a8f.jpg",
     "static/media/Macintosh_and_boombox.jpg": "/static/media/Macintosh_and_boombox.11755596aed3fb76e0f9.jpg",
     "static/media/CD_Player_Teardown.jpg": "/static/media/CD_Player_Teardown.0949e509f9786fdc4ad1.jpg",
+    "static/media/rgupta.jpeg": "/static/media/rgupta.a198472a1bfefaffa027.jpeg",
     "static/media/e_quad.jpg": "/static/media/e_quad.d367c64059747ae37ce2.jpg",
     "static/media/Macintosh_Floppy_Drive.jpg": "/static/media/Macintosh_Floppy_Drive.f20e845fb262476ee53c.jpg",
+    "static/media/mlloyd.jpeg": "/static/media/mlloyd.3508dd4da49c44f07758.jpeg",
     "static/media/ey3875.jpeg": "/static/media/ey3875.b87c20759206407e8d60.jpeg",
     "static/media/mm5764.jpg": "/static/media/mm5764.a11e90a7de824be592fe.jpg",
+    "static/media/mthanh.jpeg": "/static/media/mthanh.7bb939418232969103e0.jpeg",
     "static/media/bg_support.png": "/static/media/bg_support.be42e89413364d98e5ee.png",
     "static/media/dd6849.jpg": "/static/media/dd6849.8696c0812364982adae0.jpg",
     "static/media/droid-4.jpg": "/static/media/droid-4.091059c40612338e5b99.jpg",
@@ -64,6 +68,7 @@
     "static/media/rover-1.jpg": "/static/media/rover-1.582699bd4575592ce6cb.jpg",
     "static/media/golf-logo.svg": "/static/media/golf-logo.715e7e8217be9a10eb16.svg",
     "static/media/exoskeleton-logo.svg": "/static/media/exoskeleton-logo.d5dd33d239058308acd0.svg",
+    "static/media/schan.jpeg": "/static/media/schan.b4008e78c9d2124ecc11.jpeg",
     "static/media/rover-logo.svg": "/static/media/rover-logo.84dbb30cc5318604a1a3.svg",
     "static/media/Century-Gothic.ttf": "/static/media/Century-Gothic.b194aa2bd524e2c973f7.ttf",
     "static/media/tinker-logo.svg": "/static/media/tinker-logo.b9e0dd7b816197ed72d9.svg",
@@ -77,6 +82,7 @@
     "static/media/dk6149.jpeg": "/static/media/dk6149.c86c2f374ac6279e4bd3.jpeg",
     "static/media/princeton-public-library-logo.png": "/static/media/princeton-public-library-logo.13409c3b80e92f4a5dbc.png",
     "static/media/pacbot-logo.svg": "/static/media/pacbot-logo.273777cfd46146e342be.svg",
+    "static/media/kharting.jpeg": "/static/media/kharting.ad5f7733300d92220b43.jpeg",
     "static/media/drone-logo.svg": "/static/media/drone-logo.9fb5c1fdce3c4c0793f7.svg",
     "static/media/mh6419.jpg": "/static/media/mh6419.9f6e206688828022968c.jpg",
     "static/media/droid-logo.svg": "/static/media/droid-logo.bbf4a608bcb99537b9c6.svg",
@@ -119,10 +125,10 @@
     "static/media/black-girls-code.avif": "/static/media/black-girls-code.af2c18db9b9f3a912a46.avif",
     "index.html": "/index.html",
     "main.e625b220.css.map": "/static/css/main.e625b220.css.map",
-    "main.4391fea6.js.map": "/static/js/main.4391fea6.js.map"
+    "main.ff26dc0b.js.map": "/static/js/main.ff26dc0b.js.map"
   },
   "entrypoints": [
     "static/css/main.e625b220.css",
-    "static/js/main.4391fea6.js"
+    "static/js/main.ff26dc0b.js"
   ]
 }
