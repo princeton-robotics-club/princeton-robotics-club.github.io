@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2d51a09d.css",
-    "main.js": "/static/js/main.c7afaf4c.js",
+    "main.js": "/static/js/main.2c6b0e79.js",
     "static/media/pacbot-4.mov": "/static/media/pacbot-4.dccfd34c3cf2761e5ca1.mov",
     "static/media/th5879.jpg": "/static/media/th5879.bc109329145f5c522d82.jpg",
     "static/media/golf-1.jpeg": "/static/media/golf-1.85dd5f6b2fd7e15f43dc.jpeg",
@@ -120,6 +120,7 @@
     "static/media/cg6972.jpg": "/static/media/cg6972.ed2158354517c50a2b13.jpg",
     "static/media/odus_logo.png": "/static/media/odus_logo.a6151e3060f6ef4682b6.png",
     "static/media/js4346.jpg": "/static/media/js4346.129b595a1cccbf44d436.jpg",
+    "static/media/hsoto.jpg": "/static/media/hsoto.01bfc1893a414aa8ad9a.jpg",
     "static/media/lglisic.jpg": "/static/media/lglisic.53a3b3e58866c3619137.jpg",
     "static/media/cst.png": "/static/media/cst.1a1ba02767a6c0c3c96e.png",
     "static/media/majumdar.jpg": "/static/media/majumdar.c69524469facdd431e47.jpg",
@@ -133,10 +134,10 @@
     "static/media/black-girls-code.avif": "/static/media/black-girls-code.af2c18db9b9f3a912a46.avif",
     "index.html": "/index.html",
     "main.2d51a09d.css.map": "/static/css/main.2d51a09d.css.map",
-    "main.c7afaf4c.js.map": "/static/js/main.c7afaf4c.js.map"
+    "main.2c6b0e79.js.map": "/static/js/main.2c6b0e79.js.map"
   },
   "entrypoints": [
     "static/css/main.2d51a09d.css",
-    "static/js/main.c7afaf4c.js"
+    "static/js/main.2c6b0e79.js"
   ]
 }
