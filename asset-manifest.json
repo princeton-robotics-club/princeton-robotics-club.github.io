@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.917a17c0.css",
-    "main.js": "/static/js/main.20d8a79f.js",
+    "main.css": "/static/css/main.afa7f8fe.css",
+    "main.js": "/static/js/main.b2f9ebb9.js",
     "static/media/pacbot-4.mov": "/static/media/pacbot-4.dccfd34c3cf2761e5ca1.mov",
     "static/media/th5879.jpg": "/static/media/th5879.bc109329145f5c522d82.jpg",
     "static/media/gmyslo.png": "/static/media/gmyslo.c39d2bdd2ba0b55b646a.png",
+    "static/media/bionics.jpg": "/static/media/bionics.0e17af78d791e9b53d40.jpg",
     "static/media/golf-1.jpeg": "/static/media/golf-1.85dd5f6b2fd7e15f43dc.jpeg",
     "static/media/droid-2.jpg": "/static/media/droid-2.b16befdc6b76d0af9a04.jpg",
     "static/media/ereinfurt.JPG": "/static/media/ereinfurt.ca89f40ab1c4883308a5.JPG",
@@ -31,14 +32,21 @@
     "static/media/princeton-splash-event.jpg": "/static/media/princeton-splash-event.6c07c236dfb287771c3f.jpg",
     "static/media/drone-2.jpg": "/static/media/drone-2.cda8763e3329034a731b.jpg",
     "static/media/droid-1.jpg": "/static/media/droid-1.3f386509e548d3b8960d.jpg",
+    "static/media/pacBot_Maze.jpg": "/static/media/pacBot_Maze.83efb3c63d831f99fb4c.jpg",
+    "static/media/tinker.jpg": "/static/media/tinker.1ec37c5cad7bb9b9f2ca.jpg",
     "static/media/princeton-splash.png": "/static/media/princeton-splash.18e10350c517211da13c.png",
+    "static/media/pacBot_Maze-2.jpg": "/static/media/pacBot_Maze-2.6c324a3a95783e5c256f.jpg",
+    "static/media/tinker-2.jpg": "/static/media/tinker-2.bf01823026940ffcedb4.jpg",
     "static/media/pacbot-4.jpg": "/static/media/pacbot-4.eea427e5990f1c8933d7.jpg",
     "static/media/gkopf.png": "/static/media/gkopf.ae44031513733a07ea16.png",
     "static/media/vv5226.jpg": "/static/media/vv5226.c026fc039767ad6574c7.jpg",
     "static/media/logo_dark.png": "/static/media/logo_dark.00ad1dc3b02df17968b9.png",
     "static/media/cy4383.jpg": "/static/media/cy4383.6d53c3f1fc119ff7f210.jpg",
     "static/media/droid-session.jpg": "/static/media/droid-session.84d70b5a73c5566463b1.jpg",
+    "static/media/drone-4.jpg": "/static/media/drone-4.70d7f65ca6832c9a9d6b.jpg",
     "static/media/sr6770.jpg": "/static/media/sr6770.10f3fc26802ca0b2db97.jpg",
+    "static/media/droid-3.png": "/static/media/droid-3.08f7a659bc11f1b63cda.png",
+    "static/media/droid-4.png": "/static/media/droid-4.636dc80c6d9315f21f81.png",
     "static/media/droid-construction.png": "/static/media/droid-construction.636dc80c6d9315f21f81.png",
     "static/media/droid-team.png": "/static/media/droid-team.18222f44be726e71fee3.png",
     "static/media/pacbot-1.jpg": "/static/media/pacbot-1.4151521c4d25938790e8.jpg",
@@ -135,11 +143,11 @@
     "static/media/hb7778.jpg": "/static/media/hb7778.6c8fb80291f30cda0304.jpg",
     "static/media/black-girls-code.avif": "/static/media/black-girls-code.af2c18db9b9f3a912a46.avif",
     "index.html": "/index.html",
-    "main.917a17c0.css.map": "/static/css/main.917a17c0.css.map",
-    "main.20d8a79f.js.map": "/static/js/main.20d8a79f.js.map"
+    "main.afa7f8fe.css.map": "/static/css/main.afa7f8fe.css.map",
+    "main.b2f9ebb9.js.map": "/static/js/main.b2f9ebb9.js.map"
   },
   "entrypoints": [
-    "static/css/main.917a17c0.css",
-    "static/js/main.20d8a79f.js"
+    "static/css/main.afa7f8fe.css",
+    "static/js/main.b2f9ebb9.js"
   ]
 }
