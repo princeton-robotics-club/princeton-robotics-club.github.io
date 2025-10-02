@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.afa7f8fe.css",
-    "main.js": "/static/js/main.b2f9ebb9.js",
+    "main.css": "/static/css/main.6ca58aa3.css",
+    "main.js": "/static/js/main.ad6ac1e5.js",
     "static/media/pacbot-4.mov": "/static/media/pacbot-4.dccfd34c3cf2761e5ca1.mov",
     "static/media/th5879.jpg": "/static/media/th5879.bc109329145f5c522d82.jpg",
     "static/media/gmyslo.png": "/static/media/gmyslo.c39d2bdd2ba0b55b646a.png",
@@ -63,6 +63,7 @@
     "static/media/sg8409.jpg": "/static/media/sg8409.9ee63eaa171616a8d758.jpg",
     "static/media/Jh5647.png": "/static/media/Jh5647.523120b51f7f99073aee.png",
     "static/media/jt1065.jpg": "/static/media/jt1065.5e1f3e5d5bef9d916a8f.jpg",
+    "static/media/hexapod.svg": "/static/media/hexapod.5fea637fbb0044521c2a.svg",
     "static/media/Macintosh_and_boombox.jpg": "/static/media/Macintosh_and_boombox.11755596aed3fb76e0f9.jpg",
     "static/media/csaran.jpg": "/static/media/csaran.befcebc83a96c9b200d4.jpg",
     "static/media/CD_Player_Teardown.jpg": "/static/media/CD_Player_Teardown.0949e509f9786fdc4ad1.jpg",
@@ -143,11 +144,11 @@
     "static/media/hb7778.jpg": "/static/media/hb7778.6c8fb80291f30cda0304.jpg",
     "static/media/black-girls-code.avif": "/static/media/black-girls-code.af2c18db9b9f3a912a46.avif",
     "index.html": "/index.html",
-    "main.afa7f8fe.css.map": "/static/css/main.afa7f8fe.css.map",
-    "main.b2f9ebb9.js.map": "/static/js/main.b2f9ebb9.js.map"
+    "main.6ca58aa3.css.map": "/static/css/main.6ca58aa3.css.map",
+    "main.ad6ac1e5.js.map": "/static/js/main.ad6ac1e5.js.map"
   },
   "entrypoints": [
-    "static/css/main.afa7f8fe.css",
-    "static/js/main.b2f9ebb9.js"
+    "static/css/main.6ca58aa3.css",
+    "static/js/main.ad6ac1e5.js"
   ]
 }
