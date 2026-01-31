@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.02a339f5.css",
-    "main.js": "/static/js/main.dfb04bce.js",
+    "main.js": "/static/js/main.bea96f05.js",
     "static/media/pacbot-4.mov": "/static/media/pacbot-4.dccfd34c3cf2761e5ca1.mov",
     "static/media/th5879.jpg": "/static/media/th5879.bc109329145f5c522d82.jpg",
     "static/media/sarahhu.png": "/static/media/sarahhu.46742ca2d9a14b07233c.png",
@@ -61,6 +61,7 @@
     "static/media/droid-construction.png": "/static/media/droid-construction.636dc80c6d9315f21f81.png",
     "static/media/droid-team.png": "/static/media/droid-team.18222f44be726e71fee3.png",
     "static/media/pacbot-1.jpg": "/static/media/pacbot-1.4151521c4d25938790e8.jpg",
+    "static/media/chinmayiramasubramanian.jpg": "/static/media/chinmayiramasubramanian.9bc4bf6cbff4511e9f1d.jpg",
     "static/media/dsingh.png": "/static/media/dsingh.1bac70bf9c015bd22f23.png",
     "static/media/bionics-logo.svg": "/static/media/bionics-logo.75ce9b8a98baebf8d13a.svg",
     "static/media/general-4.jpg": "/static/media/general-4.264c133e9dd13ddbac69.jpg",
@@ -88,6 +89,7 @@
     "static/media/mthanh.jpeg": "/static/media/mthanh.7bb939418232969103e0.jpeg",
     "static/media/bg_support.png": "/static/media/bg_support.be42e89413364d98e5ee.png",
     "static/media/tommyphan.jpg": "/static/media/tommyphan.14adbfc0fc459dd58ff2.jpg",
+    "static/media/annaxie.jpg": "/static/media/annaxie.fc90d820cf774e3c22c2.jpg",
     "static/media/dd6849.jpg": "/static/media/dd6849.8696c0812364982adae0.jpg",
     "static/media/droid-4.jpg": "/static/media/droid-4.091059c40612338e5b99.jpg",
     "static/media/alex-glaser.jpg": "/static/media/alex-glaser.ffeaefc2575e848fdfa0.jpg",
@@ -158,10 +160,10 @@
     "static/media/black-girls-code.avif": "/static/media/black-girls-code.af2c18db9b9f3a912a46.avif",
     "index.html": "/index.html",
     "main.02a339f5.css.map": "/static/css/main.02a339f5.css.map",
-    "main.dfb04bce.js.map": "/static/js/main.dfb04bce.js.map"
+    "main.bea96f05.js.map": "/static/js/main.bea96f05.js.map"
   },
   "entrypoints": [
     "static/css/main.02a339f5.css",
-    "static/js/main.dfb04bce.js"
+    "static/js/main.bea96f05.js"
   ]
 }
