@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.02a339f5.css",
-    "main.js": "/static/js/main.bea96f05.js",
+    "main.js": "/static/js/main.519cb156.js",
     "static/media/pacbot-4.mov": "/static/media/pacbot-4.dccfd34c3cf2761e5ca1.mov",
     "static/media/th5879.jpg": "/static/media/th5879.bc109329145f5c522d82.jpg",
     "static/media/sarahhu.png": "/static/media/sarahhu.46742ca2d9a14b07233c.png",
@@ -59,6 +59,7 @@
     "static/media/droid-3.png": "/static/media/droid-3.08f7a659bc11f1b63cda.png",
     "static/media/droid-4.png": "/static/media/droid-4.636dc80c6d9315f21f81.png",
     "static/media/droid-construction.png": "/static/media/droid-construction.636dc80c6d9315f21f81.png",
+    "static/media/rayyannasser.jpg": "/static/media/rayyannasser.67356b66593bac084f40.jpg",
     "static/media/droid-team.png": "/static/media/droid-team.18222f44be726e71fee3.png",
     "static/media/pacbot-1.jpg": "/static/media/pacbot-1.4151521c4d25938790e8.jpg",
     "static/media/chinmayiramasubramanian.jpg": "/static/media/chinmayiramasubramanian.9bc4bf6cbff4511e9f1d.jpg",
@@ -160,10 +161,10 @@
     "static/media/black-girls-code.avif": "/static/media/black-girls-code.af2c18db9b9f3a912a46.avif",
     "index.html": "/index.html",
     "main.02a339f5.css.map": "/static/css/main.02a339f5.css.map",
-    "main.bea96f05.js.map": "/static/js/main.bea96f05.js.map"
+    "main.519cb156.js.map": "/static/js/main.519cb156.js.map"
   },
   "entrypoints": [
     "static/css/main.02a339f5.css",
-    "static/js/main.bea96f05.js"
+    "static/js/main.519cb156.js"
   ]
 }
