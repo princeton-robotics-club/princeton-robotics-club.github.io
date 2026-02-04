@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.02a339f5.css",
-    "main.js": "/static/js/main.4aebefc6.js",
+    "main.js": "/static/js/main.06a603d8.js",
     "static/media/pacbot-4.mov": "/static/media/pacbot-4.dccfd34c3cf2761e5ca1.mov",
     "static/media/th5879.jpg": "/static/media/th5879.bc109329145f5c522d82.jpg",
     "static/media/sarahhu.png": "/static/media/sarahhu.46742ca2d9a14b07233c.png",
@@ -14,6 +14,7 @@
     "static/media/droid-2.jpg": "/static/media/droid-2.b16befdc6b76d0af9a04.jpg",
     "static/media/ereinfurt.JPG": "/static/media/ereinfurt.ca89f40ab1c4883308a5.JPG",
     "static/media/first-princeton.jpg": "/static/media/first-princeton.3554521693f125fb65b3.jpg",
+    "static/media/jmendes.png": "/static/media/jmendes.faab51bdacf94dd3569b.png",
     "static/media/drone-1.jpg": "/static/media/drone-1.8e23025047ae059583e2.jpg",
     "static/media/PURC Logo Blue.svg": "/static/media/PURC Logo Blue.edf9baf595cfcf805272.svg",
     "static/media/drone-6.jpeg": "/static/media/drone-6.d70c494cf1ffc990eca9.jpeg",
@@ -125,7 +126,6 @@
     "static/media/zk9002.jpg": "/static/media/zk9002.ca06c3856ba3445218e7.jpg",
     "static/media/pacbot-3.jpg": "/static/media/pacbot-3.e06f4dc2f3659d1eacfe.jpg",
     "static/media/McMaster-Carr_logo.svg.png": "/static/media/McMaster-Carr_logo.svg.0c71b0c197503a0a8f29.png",
-    "static/media/jmendes.jpeg": "/static/media/jmendes.61bab52667c03f2fa2ec.jpeg",
     "static/media/general-9.jpg": "/static/media/general-9.6146f5ab20b9032af2a3.jpg",
     "static/media/ih2422.jpg": "/static/media/ih2422.83f431868b4704963c91.jpg",
     "static/media/jt7347.jpg": "/static/media/jt7347.dd6af7593c605c1e2b3b.jpg",
@@ -161,10 +161,10 @@
     "static/media/black-girls-code.avif": "/static/media/black-girls-code.af2c18db9b9f3a912a46.avif",
     "index.html": "/index.html",
     "main.02a339f5.css.map": "/static/css/main.02a339f5.css.map",
-    "main.4aebefc6.js.map": "/static/js/main.4aebefc6.js.map"
+    "main.06a603d8.js.map": "/static/js/main.06a603d8.js.map"
   },
   "entrypoints": [
     "static/css/main.02a339f5.css",
-    "static/js/main.4aebefc6.js"
+    "static/js/main.06a603d8.js"
   ]
 }
