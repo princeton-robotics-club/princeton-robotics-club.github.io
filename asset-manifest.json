@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.02a339f5.css",
-    "main.js": "/static/js/main.06a603d8.js",
+    "main.js": "/static/js/main.73b1d412.js",
     "static/media/pacbot-4.mov": "/static/media/pacbot-4.dccfd34c3cf2761e5ca1.mov",
     "static/media/th5879.jpg": "/static/media/th5879.bc109329145f5c522d82.jpg",
     "static/media/sarahhu.png": "/static/media/sarahhu.46742ca2d9a14b07233c.png",
@@ -57,6 +57,7 @@
     "static/media/general-7.jpg": "/static/media/general-7.b7957a513fbb1610fbda.jpg",
     "static/media/drone-4.jpg": "/static/media/drone-4.70d7f65ca6832c9a9d6b.jpg",
     "static/media/sr6770.jpg": "/static/media/sr6770.10f3fc26802ca0b2db97.jpg",
+    "static/media/ericzhang.JPG": "/static/media/ericzhang.59c88939790525002dbd.JPG",
     "static/media/droid-3.png": "/static/media/droid-3.08f7a659bc11f1b63cda.png",
     "static/media/droid-4.png": "/static/media/droid-4.636dc80c6d9315f21f81.png",
     "static/media/droid-construction.png": "/static/media/droid-construction.636dc80c6d9315f21f81.png",
@@ -161,10 +162,10 @@
     "static/media/black-girls-code.avif": "/static/media/black-girls-code.af2c18db9b9f3a912a46.avif",
     "index.html": "/index.html",
     "main.02a339f5.css.map": "/static/css/main.02a339f5.css.map",
-    "main.06a603d8.js.map": "/static/js/main.06a603d8.js.map"
+    "main.73b1d412.js.map": "/static/js/main.73b1d412.js.map"
   },
   "entrypoints": [
     "static/css/main.02a339f5.css",
-    "static/js/main.06a603d8.js"
+    "static/js/main.73b1d412.js"
   ]
 }
