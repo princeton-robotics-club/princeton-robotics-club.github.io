@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.58164cc6.css",
-    "main.js": "/static/js/main.0c4bfbcb.js",
+    "main.css": "/static/css/main.2facc627.css",
+    "main.js": "/static/js/main.ab54ebe6.js",
     "static/media/pacbot-4.mov": "/static/media/pacbot-4.dccfd34c3cf2761e5ca1.mov",
+    "static/media/nassauPlaceholder.jpg": "/static/media/nassauPlaceholder.5fc742280d873c4b2dcb.jpg",
     "static/media/th5879.jpg": "/static/media/th5879.bc109329145f5c522d82.jpg",
     "static/media/sarahhu.png": "/static/media/sarahhu.46742ca2d9a14b07233c.png",
     "static/media/gmyslo.png": "/static/media/gmyslo.c39d2bdd2ba0b55b646a.png",
@@ -98,8 +99,11 @@
     "static/media/alex-glaser.jpg": "/static/media/alex-glaser.ffeaefc2575e848fdfa0.jpg",
     "static/media/pacbot-2.jpg": "/static/media/pacbot-2.6e168a85f30802cd9d85.jpg",
     "static/media/drone-3.jpg": "/static/media/drone-3.3560110dd3d901b1b87c.jpg",
+    "static/media/yinnie.jpg": "/static/media/yinnie.6fce9ee2ff7dc7c9a3c5.jpg",
     "static/media/rover-1.jpg": "/static/media/rover-1.582699bd4575592ce6cb.jpg",
+    "static/media/kenan.jpg": "/static/media/kenan.a9a1f071a207d9ccb5d6.jpg",
     "static/media/golf-logo.svg": "/static/media/golf-logo.715e7e8217be9a10eb16.svg",
+    "static/media/samanthaMorin.jpg": "/static/media/samanthaMorin.3f5f6c542e693d2b7b8f.jpg",
     "static/media/exoskeleton-logo.svg": "/static/media/exoskeleton-logo.d5dd33d239058308acd0.svg",
     "static/media/schan.jpeg": "/static/media/schan.b4008e78c9d2124ecc11.jpeg",
     "static/media/rover-logo.svg": "/static/media/rover-logo.84dbb30cc5318604a1a3.svg",
@@ -108,6 +112,7 @@
     "static/media/walle-1.jpg": "/static/media/walle-1.6dc2452a4ab28b1abda5.jpg",
     "static/media/es5889.jpg": "/static/media/es5889.48099f66a1709bf9bf3d.jpg",
     "static/media/lyon.png": "/static/media/lyon.2a285b7e316b09d9eead.png",
+    "static/media/mohidMalik.jpg": "/static/media/mohidMalik.6adc6115b0824d4f4373.jpg",
     "static/media/wh9128.jpg": "/static/media/wh9128.2302281cf0b222aaf9de.jpg",
     "static/media/robocup-logo.svg": "/static/media/robocup-logo.af438a1e34cdf3f288e5.svg",
     "static/media/Just-Sans-Regular.otf": "/static/media/Just-Sans-Regular.4ea0fcccc6094d2b112e.otf",
@@ -145,6 +150,7 @@
     "static/media/an4978.jpg": "/static/media/an4978.1cf3ab0c6e8e2b042adf.jpg",
     "static/media/ck4287.jpg": "/static/media/ck4287.3bbade10f5c8c501e62e.jpg",
     "static/media/ac1180.jpg": "/static/media/ac1180.b5e4f15aea281990ecb0.jpg",
+    "static/media/gaelTaipe.jpg": "/static/media/gaelTaipe.90329cd4718304d144e0.jpg",
     "static/media/aw3592.jpeg": "/static/media/aw3592.5ad2a894caa6b8da3db5.jpeg",
     "static/media/odus_logo.png": "/static/media/odus_logo.a6151e3060f6ef4682b6.png",
     "static/media/hsoto.jpg": "/static/media/hsoto.01bfc1893a414aa8ad9a.jpg",
@@ -160,11 +166,11 @@
     "static/media/hb7778.jpg": "/static/media/hb7778.6c8fb80291f30cda0304.jpg",
     "static/media/black-girls-code.avif": "/static/media/black-girls-code.af2c18db9b9f3a912a46.avif",
     "index.html": "/index.html",
-    "main.58164cc6.css.map": "/static/css/main.58164cc6.css.map",
-    "main.0c4bfbcb.js.map": "/static/js/main.0c4bfbcb.js.map"
+    "main.2facc627.css.map": "/static/css/main.2facc627.css.map",
+    "main.ab54ebe6.js.map": "/static/js/main.ab54ebe6.js.map"
   },
   "entrypoints": [
-    "static/css/main.58164cc6.css",
-    "static/js/main.0c4bfbcb.js"
+    "static/css/main.2facc627.css",
+    "static/js/main.ab54ebe6.js"
   ]
 }
